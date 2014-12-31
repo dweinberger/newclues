@@ -1,6 +1,6 @@
 ## New Clues
 
-This is the HTML version of the 1 "New Clues" page posted by David Weinberger and Doc Searls on January 1, 2014 at http://www.cluetrain.com/newclues/index.html.
+This is the HTML version of the 1 "New Clues" page posted by David Weinberger and Doc Searls on January 1, 2015 at http://www.cluetrain.com/newclues/index.html.
 
 They are posted under a Creative Commons 0 license that puts them into the public domain. Use them as you would like. (Obviously, it would be polite to credit the authors and  link back to the original site. )
 
