@@ -1,8 +1,8 @@
 ## New Clues
 
-This is the HTML version of the 1 "New Clues" page posted by David Weinberger and Doc Searls on January 1, 2014 at http://www.cluetrain.com/newclues/index.html.
+This is the HTML version of the 1 "New Clues" page posted by David Weinberger and Doc Searls to be posted sometime in early January 2015 at http://www.cluetrain.com/newclues/index.html. These documents are currently in stealth mode. We're trusting you with this.
 
-They are posted under a Creative Commons 0 license that puts them into the public domain. Use them as you would like. (Obviously, it would be polite to credit the authors and  link back to the original site. )
+The text of the New Clues page is posted under a Creative Commons 0 license that puts them into the public domain. Use them as you would like. (Obviously, it would be polite to credit the authors and  link back to the original site. )
 
 The files:
 
@@ -12,10 +12,12 @@ The files:
 
 - clues_.txt: A pure text version of the clues. The clues are preceded by their number on a separate line. The subsection headings are preceded by a letter. The major sections are preceded by a roman numeral.
 
+- clues_.json: A JSON version of the clues. Just text. No preamble. No numbers. No links.
+
 We look forward to the use you put these to.
 
-Doc Searls
-doc@searls.com
-David Weinberger
+Doc Searls  
+doc@searls.com  
+David Weinberger  
 david@weinberger.org 
 
