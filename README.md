@@ -1,6 +1,6 @@
 ## New Clues
 
-This is the HTML version of the 1"New Clues" page  by David Weinberger and Doc Searls to be posted sometime in early January 2015 at http://www.cluetrain.com/newclues/index.html. These documents are currently in stealth mode. We're trusting you with this.
+This is the HTML version of the "New Clues" page  by David Weinberger and Doc Searls to be posted sometime in early January 2015 at http://www.cluetrain.com/newclues/index.html. These documents are currently in stealth mode. We're trusting you with this.
 
 The text of the New Clues page is posted under a Creative Commons 0 license that puts them into the public domain. Use them as you would like. (Obviously, it would be polite to credit the authors and  link back to the original site. )
 
