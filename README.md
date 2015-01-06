@@ -16,7 +16,9 @@ The files:
 
 - newclues_.json: A JSON version of all the text, including the preamble, all the clues,  the chapter heads and subtitles, and their hierarchy.
 
-We look forward to the use you put these to.
+- newclues_.opml: An outline version with the full text: the preamble, all the clues, the chapter heads and subtitles, and their hierarchy.
+
+We look forward to the uses you put these to.
 
 If you find errors, have questions, or have suggestions, contact david@weinberger.org. But please note that I'm a hobbyist programmer and will do the best I can.
 
