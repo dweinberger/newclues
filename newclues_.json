@@ -1,23 +1,21 @@
 {
-"date" : "02.01.2014",
+"date" : "02.05.2015",
 "authors" : [
 	"Doc Searls",
 	"David Weinberger"],
 "preamble" : [
 	"Hear, O Internet.",
-	"It has been fifteen years since our previous communication.",
-	"In that time the People of the Internet — you and me and all our friends of friends of friends, unto the last Kevin Bacon — have made the Internet an awesome place, filled with wonders and portents.",
-	"From the serious to the lolworthy to the wtf, we have up-ended titans, created heroes,  and changed the most basic assumptions about",
-	"How Things Work and Who We Are.",
-	"But now all the good work we've done together faces mortal dangers.",
-	"When we first came before you, it was to warn of the threat posed by those who did not understand that they did not understand the Internet.",
-	"These are The Fools, and they are with us still, although many have by now adopted the trappings of the Internet. They are like unto aging baby boomers wearing their baseball caps backwards. It's just embarrassing.",
-	"Now two more hordes threaten all that we have built for one another.",
-	"The Marauders understand the Internet all too well. They view it as theirs to plunder, extracting our money and data from it, thinking that we are the fools.",
-	"Then there is the horde of our own Evil Inclinations. We give in to this eternal aspect of our nature when we too easily exchange the truly valuable for the merely shiny — and then we sit back complicitly as the Fools and Marauders amplify the very worst of what we are.",
-	"Make no mistake: We can lose the Internet we love with a stroke of a pen, a covert handshake, or by allowing memes to drown out the cries of the afflicted.",
-	"We come to you from the years of the Web's beginning. We have grown old together on the Internet. Time is short.",
-	"We, the People of the Internet, need to remember the glory of its revelation so that we reclaim it now in the name of what it truly is."
+	"It has been fifteen years since our previous communication.   In that time the People of the Internet — you and me and all our friends of friends of friends, unto the last Kevin Bacon — have made the Internet an awesome place, filled with wonders and portents.  ",
+	"From the serious to the lolworthy to the wtf, we have up-ended titans, created heroes,  and changed the most basic assumptions about How Things Work and Who We Are.  ",
+	"But now all the good work we've done together faces mortal dangers. ",
+	"When we first came before you, it was to warn of the threat posed by those who did not understand that they did not understand the Internet. ",
+	"These are The Fools, and they are with us still, although many have by now adopted the trappings of the Internet. They are like unto aging baby boomers wearing their baseball caps backwards. It's just embarrassing. ",
+	"Now two more hordes threaten all that we have built for one another. ",
+	"The Marauders understand the Internet all too well. They view it as theirs to plunder, extracting our money and data from it, thinking that we are the fools. ",
+	"Then there is the horde of our own Evil Inclinations. We give in to this eternal aspect of our nature when we too easily exchange the truly valuable for the merely shiny — and then we sit back complicitly as the Fools and Marauders amplify the very worst of what we are.  ",
+	"Make no mistake: We can lose the Internet we love with a stroke of a pen, a covert handshake, or by allowing memes to drown out the cries of the afflicted. ",
+	"We come to you from the years of the Web's beginning. We have grown old together on the Internet. Time is short. ",
+	"We, the People of the Internet, need to remember the glory of its revelation so that we reclaim it now in the name of what it truly is." 
 ],
 "all_clues" : {
 	"chapter" : {
@@ -26,66 +24,69 @@
 		"subheads": [
 		{"subhead" : {
 			"title" : "The Internet is us, connected.",
+			"subheadnumber" : "a",
 			"clues": [
-				{"clue" : "The Internet is not made of copper wire, glass fiber, radio waves, or even tubes.", "cluenumber" : "1"},
-				{"clue" : "The devices we use to connect to the Internet are not the Internet.", "cluenumber" : "2"},
-				{"clue" : "Verizon, Comcast, AT&T, Deutsche Telekom, and 中国电信 do not own the Internet. Facebook, Google, and Amazon are not the Net’s monarchs, nor yet are their minions or algorithms. Not the governments of the Earth nor their Trade Associations have the consent of the networked to bestride the Net as sovereigns", "cluenumber" : "3"},
+				{"clue" : "The Internet is not made of copper wire, glass fiber, radio waves, or even tubes.","cluenumber" : "1"},
+				{"clue" : "The devices we use to connect to the Internet are not the Internet.","cluenumber" : "2"},
+				{"clue" : "Verizon, Comcast, AT&T, Deutsche Telekom, and 中国电信 do not own the Internet. Facebook, Google, and Amazon are not the Net's monarchs, nor yet are their minions or algorithms. Not the governments of the Earth nor their Trade Associations have the consent of the networked to bestride the Net as sovereigns.", "cluenumber" : "3"},
 				{"clue" : "We hold the Internet in common and as unowned.", "cluenumber" : "4"},
 				{"clue" : "From us and from what we have built on it does the Internet derive all its value.", "cluenumber" : "5"},
 				{"clue" : "The Net is of us, by us, and for us.", "cluenumber" : "6"},
-				{"clue" : "The Internet is ours.", "cluenumber" : "7"}
-				]		
+				{"clue" : "The Internet is ours.",	 "cluenumber" : "7"}
+			]	
 			}
 			},
 		{"subhead" : {
 			"title" : "The Internet is nothing and has no purpose.",
+			"subheadnumber" : "b",
 			"clues" : [
 				{"clue" : "The Internet is not a thing any more than gravity is a thing. Both pull us together.", "cluenumber" : "8"},
-				{"clue" : "The Internet is no-thing at all. As we have explained elsewhere, at its base the Internet is a set of agreements, which the geeky among us (long may their names be hallowed) call \"protocols,\" but which we might, in the temper of the day, call \"commandments.\"", "cluenumber" : "9"},
+				{"clue" : "The Internet is no-thing at all. At its base the Internet is a set of agreements, which the geeky among us (long may their names be hallowed) call \"protocols,\" but which we might, in the temper of the day, call \"commandments.\"", "cluenumber" : "9"},
 				{"clue" : "The first among these is: Thy network shall move all packets closer to their destinations without favor or delay based on origin, source, content, or intent.", "cluenumber" : "10"},
-				{"clue" : "Thus does this First Commandment lay open the Internet to every idea, application, business, quest, vice and whatever.", "cluenumber" : "11"},
+				{"clue" : "Thus does this First Commandment lay open the Internet to every idea, application, business, quest, vice, and whatever.", "cluenumber" : "11"},
 				{"clue" : "There has not been a tool with such a general purpose since language.", "cluenumber" : "12"},
 				{"clue" : "This means the Internet is not for anything special or in particular. Not for social networking, not for documents, not for advertising, not for business, not for education, not for porn, not for anything. It is specifically designed for everything.", "cluenumber" : "13"},
 				{"clue" : "Optimizing the Internet for one purpose de-optimizes it for all others.", "cluenumber" : "14"},
-				{"clue" : "The Internet like gravity is indiscriminate in its attraction. It pulls us all together, the virtuous and the wicked alike.", "cluenumber" : "15"}
-				]
+				{"clue" : "The Internet like gravity is indiscriminate in its attraction. It pulls us all together, the virtuous and the wicked alike.",  "cluenumber" : "15"}
+				]  
 			}
 			},
 		{"subhead" : {
 			"title" : "The Internet is not content.",
+			"subheadnumber" : "c",
 			"clues" : [
 				{"clue" : "There is great content on the Internet. But holy mother of cheeses, the Internet is not made out of content.", "cluenumber" : "16"},
-				{"clue" : "Did we use the word \"content\" without quotes? We feel so dirty.", "cluenumber" : "17"},
-				{"clue" : "The word \"content\" takes crap intended to sound like it was written by someone who cares — you know, one of us — and puts it into the same linguistic bin as a teenager's unrequited love note, the blissful release of a long-kept secret, a fine sketch drawn by a palsied hand, a blog post in a regime that hates the sound of its people's voices.", "cluenumber" : "18"},
-				{"clue" : "\"Content\"? Feh.", "cluenumber" : "19"}
+				{"clue" : "A teenager's first poem, the blissful release of a long-kept secret, a fine sketch drawn by a palsied hand, a blog post in a regime that hates the sound of its people's voices — none of these people sat down to write content.", "cluenumber" : "17"},
+				{"clue" : "Did we use the word \"content\" without quotes? We feel so dirty.", "cluenumber" : "18"}
 				]
 			}
 			},
 		{"subhead" : {
 			"title" : "The Internet is not a medium.",
+			"subheadnumber" : "d",
 			"clues" : [
-				{"clue" : "In the classical sense, anything that alters or affects a message passing through a medium is noise. A good medium passes its messages with the least interference.", "cluenumber" : "20"},
-				{"clue" : "So, what passes messages on the Internet? You and me, sisters and brothers. We move messages every time we tweet or retweet, send a link in an email, or post it on a social network.", "cluenumber" : "21"},
-				{"clue" : "Unlike a medium, you and I leave our fingerprints, and sometimes bite marks, on the messages we pass. We tell people why we're sending it. We argue with it. We add a joke. We chop off the part we don't like. We make these messages our own.", "cluenumber" : "22"},
-				{"clue" : "Every time we move a message through the Net, it carries a little bit of ourselves with it.", "cluenumber" : "23"},
-				{"clue" : "If the Net were a medium, then you and we and everyone else would be naught but noise.", "cluenumber" : "24"},
-				{"clue" : "We only move a message through this \"medium\" if it matters to us in one of the infinite ways that humans care about something.", "cluenumber" : "25"},
-				{"clue" : "Caring — mattering — is the motive force of the Internet.", "cluenumber" : "26"}
+				{"clue" : "The Net is not a medium any more than a conversation is a medium.", "cluenumber" : "19"},
+				{"clue" : "On the Net, we are the medium. We are the ones who move messages. We do so every time we post or retweet, send a link in an email, or post it on a social network.", "cluenumber" : "20"},
+				{"clue" : "Unlike a medium, you and I leave our fingerprints, and sometimes bite marks, on the messages we pass. We tell people why we're sending it. We argue with it. We add a joke. We chop off the part we don't like. We make these messages our own.", "cluenumber" : "21"},
+				{"clue" : "Every time we move a message through the Net, it carries a little bit of ourselves with it.", "cluenumber" : "22"},
+				{"clue" : "If the Net were a medium, then you and we and everyone else would be naught but noise.", "cluenumber" : "23"},
+				{"clue" : "We only move a message through this \"medium\" if it matters to us in one of the infinite ways that humans care about something.", "cluenumber" : "24"},
+				{"clue" : "Caring — mattering — is the motive force of the Internet.", "cluenumber" : "25"}
 				]
 			}
 			},	
 		{"subhead" : {
 			"title" : "The Web is a Wide World. ",
+			"subheadnumber" : "e",
 			"clues" : [
-				{"clue" : "In 1991, Tim Berners-Lee — or, as we refer to him, \"Sir\" — used the Net to build one of the greatest gifts in our short history together: the World Wide Web.", "cluenumber" : "27"},
-				{"clue" : "Thank you, Tim.", "cluenumber" : "28"},
-				{"clue" : "TBL created the Web by providing protocols (there's that word again!) that say how to write a page that can link to any other page without needing anyone's permission.", "cluenumber" : "29"},
-				{"clue" : "Boom. Within ten years we had billions of pages on the Web — a combined effort on the order of a World War, and yet so benign that the biggest complaint was the <blink> tag.", "cluenumber" : "30"},
-				{"clue" : "The Web is an impossibly large, semi-persistent realm of items discoverable in their dense inter-connections.", "cluenumber" : "31"},
-				{"clue" : "That sounds familiar. Oh, yeah, that's what the world is.", "cluenumber" : "32"},
-				{"clue" : "Unlike the real world, every thing and every connection on the Web was created by some one of us expressing an interest and an assumption about how those small pieces go together.", "cluenumber" : "33"},
-				{"clue" : "The Web remakes the world in our collective, emergent image.", "cluenumber" : "34"},
-				{"clue" : "Did hyperlinks subvert authority? Just ask any of the old authorities. If you can find them.", "cluenumber" : "35"}
+				{"clue" : "In 1991, Tim Berners-Lee — or, as we refer to him, \"Sir\" — used the Net to build one of the greatest gifts in our short history together: the World Wide Web. Thank you.", "cluenumber" : "26"},
+				{"clue" : "TBL created the Web by providing protocols (there's that word again!) that say how to write a page that can link to any other page without needing anyone's permission.", "cluenumber" : "27"},
+				{"clue" : "Boom. Within ten years we had billions of pages on the Web — a combined effort on the order of a World War, and yet so benign that the biggest complaint was the <blink> tag.", "cluenumber" : "28"},
+				{"clue" : "The Web is an impossibly large, semi-persistent realm of items discoverable in their dense inter-connections.", "cluenumber" : "29"},
+				{"clue" : "That sounds familiar. Oh, yeah, that's what the world is.", "cluenumber" : "30"},
+				{"clue" : "Unlike the real world, every thing and every connection on the Web was created by some one of us expressing an interest and an assumption about how those small pieces go together.", "cluenumber" : "31"},
+				{"clue" : "Every  link is a little act of generosity, a little act of selflessness, bidding our readers leave our page to see how the world looks to someone else.", "cluenumber" : "32"},
+				{"clue" : "The Web remakes the world in our collective, emergent image.", "cluenumber" : "33"}
 			]
 			}
 			}	
@@ -99,36 +100,32 @@
 			"title" : "When did conversation become weaponized, anyway?",
 			"subheadnumber" : "a",
 			"clues": [
-				{"clue" : "It's important to notice and cherish the talk, the friendship, the thousand acts of sympathy, kindness and joy we encounter on the Internet.", "cluenumber" : "36"},
-				{"clue" : "And yet, we hear the words \"fag\" and \"nigger\" far more on the Net than off.", "cluenumber" : "37"},
-				{"clue" : "Demonization of 'them' — people with looks, languages, opinions, memberships and other groupings we don't understand, like, or tolerate — is worse than ever on the Internet.", "cluenumber" : "38"},
-				{"clue" : "Do you want the evolution of the Net to be driven by a post-Darwinian survival of the most obnoxious? Most hateful? Most sociopathic?", "cluenumber" : "39"},
-				{"clue" : "Don't tell us that women in Saudi Arabia can't drive if women on our Internet can't speak.", "cluenumber" : "40"},
-				{"clue" : "Hatred is present on the Net because it's present in the world, but the Net makes it easier to express and to hear.", "cluenumber" : "41"},
-				{"clue" : "The solution: If we had a solution, we wouldn't be bothering you with all these damn clues.", "cluenumber" : "42"},
-				{"clue" : "We can say this much: Hatred didn't call the Net into existence, but it is holding the Net — and us — back.", "cluenumber" : "43"},
-				{"clue" : "Let's at least acknowledge that the Net has values implicit in it. Human values.", "cluenumber" : "44"},
-				{"clue" : "Viewed coldly the Net is just technology. But it's populated by creatures who are warm with what they care about: their lives, their friends, the world we share.", "cluenumber" : "45"},
-				{"clue" : "The primordial Internet value, based on its technical nature and humans' social nature, is cherishing a common place where we can be who we are, with others who delight in our differences.", "cluenumber" : "46"},
-				{"clue" : "No one owns that place.", "cluenumber" : "47"},
-				{"clue" : "Everybody can use it.", "cluenumber" : "48"},
-				{"clue" : "Anyone can improve it.", "cluenumber" : "49"},
-				{"clue" : "That's what an open Internet is. Wars have been fought for less.", "cluenumber" : "50"}
-			]
+				{"clue" : "It's important to notice and cherish the talk, the friendship, the thousand acts of sympathy, kindness, and joy we encounter on the Internet.", "cluenumber" : "34"},
+				{"clue" : "And yet we hear the words \"fag\" and \"nigger\" far more on the Net than off.", "cluenumber" : "35"},
+				{"clue" : "Demonization of 'them' — people with looks, languages, opinions, memberships and other groupings we don't understand, like, or tolerate — is worse than ever on the Internet.", "cluenumber" : "36"},
+				{"clue" : "Women in Saudi Arabia can't drive? Meanwhile, half of us can't speak on the Net without looking over our shoulders.", "cluenumber" : "37"},
+				{"clue" : "Hatred is present on the Net because it's present in the world, but the Net makes it easier to express and to hear.", "cluenumber" : "38"},
+				{"clue" : "The solution: If we had a solution, we wouldn't be bothering you with all these damn clues.", "cluenumber" : "39"},
+				{"clue" : "We can say this much: Hatred didn't call the Net into being, but it is holding the Net — and us — back.", "cluenumber" : "40"},
+				{"clue" : "Let's at least acknowledge that the Net has values implicit in it. Human values.", "cluenumber" : "41"},
+				{"clue" : "Viewed coldly the Net is just technology. But it's populated by creatures who are warm with what they care about: their lives, their friends, the world we share.", "cluenumber" : "42"},
+				{"clue" : "The Net offers us a common place where we can be who we are, with others who delight in our differences.", "cluenumber" : "43"},
+				{"clue" : "No one owns that place. Everybody can use it. Anyone can improve it.", "cluenumber" : "44"},
+				{"clue" : "That's what an open Internet is. Wars have been fought for less.", "cluenumber" : "45"}
+							]
 			}
 			},
 		{"subhead" : {
 			"title" : "\"We agree about everything. I find you fascinating!\"",
 			"subheadnumber": "b",
 			"clues": [
-				{"clue" : "That the Internet lowers the barrier to finding a group you agree with is a bug and a feature.", "cluenumber" : "51"},
-				{"clue" : "The world is spread out before us like a buffet, and yet we tend to stick with our steak and potatoes, lamb and hummus, fish and rice, or whatever.", "cluenumber" : "52"},
-				{"clue" : "We do this in part because conversation requires a common ground: shared language, interests, norms, understandings. Without those, it's hard or even impossible to have a conversation.", "cluenumber" : "53"},
-				{"clue" : "Shared grounds spawn tribes. The literal ground kept tribes at a distance, enabling them to develop rich differences. Rejoice! Tribes give rise to demonization and war. Rejoice? Not so much.", "cluenumber" : "54"},
-				{"clue" : "On the Internet, the distance among tribes starts at zero.", "cluenumber" : "55"},
-				{"clue" : "Apparently knowing how to find one another interesting is not as easy as it looks.", "cluenumber" : "56"},
-				{"clue" : "That's a challenge we can meet by being open, sympathetic, and patient. We can do it, team! We're #1! We're #1!", "cluenumber" : "57"},
-				{"clue" : "Being welcoming: There's a value the Net needs to learn from the best of our real world cultures.", "cluenumber" : "58"}
+				{"clue" : "The world is spread out before us like a buffet, and yet we stick with our steak and potatoes, lamb and hummus, fish and rice, or whatever.", "cluenumber" : "46"},
+				{"clue" : "We do this in part because conversation requires a common ground: shared language, interests, norms, understandings. Without those, it's hard or even impossible to have a conversation.", "cluenumber" : "47"},
+				{"clue" : "Shared grounds spawn tribes. The literal ground kept tribes at a distance, enabling them to develop rich differences. Rejoice! Tribes give rise to Us vs. Them and war. Rejoice? Not so much.", "cluenumber" : "48"},
+				{"clue" : "On the Internet, the distance between tribes starts at zero.", "cluenumber" : "49"},
+				{"clue" : "Apparently knowing how to find one another interesting is not as easy as it looks.", "cluenumber" : "50"},
+				{"clue" : "That's a challenge we can meet by being open, sympathetic, and patient. We can do it, team! We're #1! We're #1!", "cluenumber" : "51"},
+				{"clue" : "Being welcoming: There's a value the Net needs to learn from the best of our real world cultures.", "cluenumber" : "52"}
 			]
 			}
 		},
@@ -136,28 +133,22 @@
 			"title" : "Marketing still makes it harder to talk.",
 			"subheadnumber" : "c",
 			"clues": [
-				{"clue" : "We were right the first time: Markets are conversations.", "cluenumber" : "59"},
-				{"clue" : "A conversation still isn't your business tugging at our sleeve to shill a product we don't want to hear about.", "cluenumber" : "60"},
-				{"clue" : "Your business' Web site invites us to \"join the conversation\"? Frankly, you sound a little desperate.", "cluenumber" : "61"},
-				{"clue" : "Don't worry: we'll tell you when we're in the market for something. In our own way. Not yours. Trust us: this will be good for you.", "cluenumber" : "62"},
-				{"clue" : "Does Internet advertising work? Wrong question.", "cluenumber" : "63"},
-				{"clue" : "The right question is, do ads make the place better or worse?", "cluenumber" : "64"},
-				{"clue" : "Some are better than others. And some are a whole lot worse.", "cluenumber" : "65"},
-				{"clue" : "Brand advertising could be annoying, but at least it didn't pretend to be a personal message whispered in our ear.", "cluenumber" : "66"},
-				{"clue" : "Also: It didn't dress itself up as news in the hope we'll miss the little disclaimer hanging off its underwear.", "cluenumber" : "67"},
-				{"clue" : "When personalizing something is creepy, it's a pretty good indication that you don't understand what it means to be a person.", "cluenumber" : "68"},
-				{"clue" : "But then, maybe \"you\" isn't a human. Maybe you're just a big machine, crunching big data, using algorithms to guess about people. Are you listening, machine? Didn't think so.", "cluenumber" : "69"},
-				{"clue" : "Personal is human. Personalized isn't.", "cluenumber" : "70"},
-				{"clue" : "The difference is voice. Humans have have real ones. Machines don't. The more human machines sound, the more they slide down into the uncanny valley where everything is a creep show.", "cluenumber" : "71"},
-				{"clue" : "The only thing worse: When marketing machines actually do sound human. We may buy your crap, but at the price of an erosion of human trust. So, thanks for that.", "cluenumber" : "72"},
-				{"clue" : "Advertisers got along without being creepy for generations. They can get along without being creepy on the Net, too.", "cluenumber" : "73"},
-				{"clue" : "When you make your ad sound like it came from a friendly human when it actually comes from your marketing department's irritable bowels, you're staining the fabric of the Web.", "cluenumber" : "74"},
-				{"clue" : "When you place a \"native ad,\" you're eroding not just your own trustworthiness, but the trustworthiness of this entire new way of being with one another.", "cluenumber" : "75"},
-				{"clue" : "And, by the way, how about calling \"native ads\" by any of their real names: \"product placement,\" \"advertorial,\" or \"fake fuckinggosh darn news\"?", "cluenumber" : "76"},
-				{"clue" : "Also, please note that \"trying to be authentic\" makes as much sense as \"trying to be effortless.\"", "cluenumber" : "77"},
-				{"clue" : "Maybe \"corporations are people, my friend\" (no, they're not) but are you telling us that they can be authentic people? Really?", "cluenumber" : "78"},
-				{"clue" : "So, here's Rule #1 for Internet advertisers: Quit pretending to be human. Just be your selves. We like you better that way.", "cluenumber" : "79"},
-				{"clue" : "Rule #2: Make the place better or get off our Internet.", "cluenumber" : "80"}
+				{"clue" : "We were right the first time: Markets are conversations.", "cluenumber" : "53"},
+				{"clue" : "A conversation isn't your business tugging at our sleeve to shill a product we don't want to hear about.", "cluenumber" : "54"},
+				{"clue" : "if we want to know the truth about your products, we'll find out from one another.", "cluenumber" : "55"},
+				{"clue" : "We understand that these conversations are incredibly valuable to you. Too bad. They're ours.", "cluenumber" : "56"},
+				{"clue" : "You're welcome to join our conversation, but only if you tell us who you work for, and if you can speak for yourself and as yourself.", "cluenumber" : "57"},
+				{"clue" : "Every time you call us \"consumers\" we feel like cows looking up the word \"meat.\"", "cluenumber" : "58"},
+				{"clue" : "Quit fracking our lives to extract data that's none of your business and your machines misinterpret.", "cluenumber" : "59"},
+				{"clue" : "Don't worry: we'll tell you when we're in the market for something. In our own way. Not yours. Trust us: this will be good for you.", "cluenumber" : "60"},
+				{"clue" : "Ads that sound human but come from your marketing department's irritable bowels, stain the fabric of the Web.", "cluenumber" : "61"},
+				{"clue" : "When personalizing something is creepy, it's a pretty good indication that you don't understand what it means to be a person.", "cluenumber" : "62"},
+				{"clue" : "Personal is human. Personalized isn't.", "cluenumber" : "63"},
+				{"clue" : "The more machines sound human, the more they slide down into the uncanny valley where everything is a creep show.", "cluenumber" : "64"},
+				{"clue" : "Also: Please stop dressing up ads as news in the hope we'll miss the little disclaimer hanging off their underwear.", "cluenumber" : "65"},
+				{"clue" : "When you place a \"native ad,\" you're eroding not just your own trustworthiness, but the trustworthiness of this entire new way of being with one another.", "cluenumber" : "66"},
+				{"clue" : "And, by the way, how about calling \"native ads\" by any of their real names: \"product placement,\" \"advertorial,\" or \"fake fuckinggosh darn news\"?", "cluenumber" : "67"},
+				{"clue" : "Advertisers got along without being creepy for generations. They can get along without being creepy on the Net, too.", "cluenumber" : "68"}
 			]
 			}
 		},
@@ -165,15 +156,15 @@
 			"title" : "The Gitmo of the Net.",
 			"subheadnumber" : "d",
 			"clues": [
-				{"clue" : "We all love our apps. But put all the apps in the world together and you have a pile of apps.", "cluenumber" : "81"},
-				{"clue" : "Put all the Web pages together and you have a new world.", "cluenumber" : "82"},
-				{"clue" : "Web pages are about connecting. Apps are about control.", "cluenumber" : "83"},
-				{"clue" : "As we move from the Web to an app-based world, we lose the commons we were building together.", "cluenumber" : "84"},
-				{"clue" : "In the Kingdom of Apps, we are users, not makers.", "cluenumber" : "85"},
-				{"clue" : "Every new page makes the Web bigger. Every new link makes the Web richer.", "cluenumber" : "86"},
-				{"clue" : "Every new app gives us something else to do on the bus.", "cluenumber" : "87"},
-				{"clue" : "Ouch, a cheap shot!", "cluenumber" : "88"},
-				{"clue" : "Hey, \"CheapShot\" would make a great new app! It's got \"in-app purchase\" written all over it.", "cluenumber" : "89"}
+				{"clue" : "We all love our shiny apps, even when they're sealed as tight as a Moon base. But put all the closed apps in the world together and you have a pile of apps.", "cluenumber" : "69"},
+				{"clue" : "Put all the Web pages together and you have a new world.", "cluenumber" : "70"},
+				{"clue" : "Web pages are about connecting. Apps are about control.", "cluenumber" : "71"},
+				{"clue" : "As we move from the Web to an app-based world, we lose the commons we were building together.", "cluenumber" : "72"},
+				{"clue" : "In the Kingdom of Apps, we are users, not makers.", "cluenumber" : "73"},
+				{"clue" : "Every new page makes the Web bigger. Every new link makes the Web richer.", "cluenumber" : "74"},
+				{"clue" : "Every new app gives us something else to do on the bus.", "cluenumber" : "75"},
+				{"clue" : "Ouch, a cheap shot!", "cluenumber" : "76"},
+				{"clue" : "Hey, \"CheapShot\" would make a great new app! It's got \"in-app purchase\" written all over it.", "cluenumber" : "77"}
 			]
 			}
 		},
@@ -181,14 +172,13 @@
 			"title" : "Gravity’s great until it sucks us all into a black hole.",
 			"subheadnumber" : "e",
 			"clues": [
-				{"clue" : "Non-neutral applications built on top of the neutral Net are becoming as inescapable as the pull of a black hole.", "cluenumber" : "90"},
-				{"clue" : "If Facebook is your experience of the Net, then you've strapped on goggles from a company with a fiduciary responsibility to keep you from ever taking the goggles off.", "cluenumber" : "91"},
-				{"clue" : "Google, Amazon, Facebook, Apple are all in the goggles business. The biggest truth their goggles keep us from seeing: These companies want to hold us the way black holes hold light.", "cluenumber" : "92"},
-				{"clue" : "These corporate singularities are dangerous not because they are evil. Many of them in fact engage in quite remarkably civic behavior. They should be applauded for that.", "cluenumber" : "93"},
-				{"clue" : "They are dangerous because of an unanticipated way that social humans co-evolve with a connected network.", "cluenumber" : "94"},
-				{"clue" : "The \"network effect\" is that thing where lots of people use something because lots of people use it.", "cluenumber" : "95"},
-				{"clue" : "Where there aren't competitive alternatives, we need to be hypervigilant to remind these Titans of the Valley of the webby values that first inspired them.", "cluenumber" : "96"},
-				{"clue" : "And then we need to honor the sound we make when any of us bravely pulls away from them. It's something between the noise of a rocket leaving the launchpad and the rip of Velcro as you undo a too-tight garment.", "cluenumber" : "97"}
+				{"clue" : "Non-neutral applications built on top of the neutral Net are becoming as inescapable as the pull of a black hole.", "cluenumber" : "78"},
+				{"clue" : "If Facebook is your experience of the Net, then you've strapped on goggles from a company with a fiduciary responsibility to keep you from ever taking the goggles off.", "cluenumber" : "79"},
+				{"clue" : "Google, Amazon, Facebook, Apple are all in the goggles business.  The biggest truth their goggles obscure: These companies want to hold us the way black holes hold light.", "cluenumber" : "80"},
+				{"clue" : "These corporate singularities are dangerous not because they are evil. Many of them in fact engage in quite remarkably civic behavior. They should be applauded for that.", "cluenumber" : "81"},
+				{"clue" : "But they benefit from the gravity of sociality: The \"network effect\" is that thing where lots of people use something because lots of people use it.", "cluenumber" : "82"},
+				{"clue" : "Where there aren't competitive alternatives, we need to be hypervigilant to remind these Titans of the Valley of the webby values that first inspired them.", "cluenumber" : "83"},
+				{"clue" : "And then we need to honor the sound we make when any of us bravely pulls away from them. It's something between the noise of a rocket leaving the launchpad and the rip of Velcro as you undo a too-tight garment.", "cluenumber" : "84"}
 				]
 			}
 			},
@@ -196,10 +186,10 @@
 			"title" : "Privacy in an age of spies.",
 			"subheadnumber" : "f",
 			"clues": [
-				{"clue" : "Our governments may not be doing much with our data that we know about and object to. But we don't know that. And governments change.", "cluenumber" : "98"},
-				{"clue" : "If we want our government to back off, the deal has to be that if — when — the next attack comes, we can't complain that they should have surveilled us harder.", "cluenumber" : "99"},
-				{"clue" : "A trade isn't fair trade if we don't know what  we're giving up and what we're gaining. Do you hear that, Security for Privacy trade-off?", "cluenumber" : "100"},
-				{"clue" : "With a probability approaching absolute certainty, we are going to be sorry we didn't do more to keep data out of the hands of our governments and corporate overlords.", "cluenumber" : "101"}
+				{"clue" : "Ok, government, you win. You've got our data. Now, what can we do to make sure you use it against Them and not against Us? In fact, can you tell the difference?", "cluenumber" : "85"},
+				{"clue" : "If we want our government to back off, the deal has to be that if — when — the next attack comes, we can't complain that they should have surveilled us harder.", "cluenumber" : "86"},
+				{"clue" : "A trade isn't fair trade if we don't know what we're giving up. Do you hear that, Security for Privacy trade-off?", "cluenumber" : "87"},
+				{"clue" : "With a probability approaching absolute certainty, we are going to be sorry we didn't do more to keep data out of the hands of our governments and corporate overlords.", "cluenumber" : "88"}
 			]
 		}
 		},
@@ -207,12 +197,12 @@
 			"title" : "Privacy in an age of weasels.",
 			"subheadnumber" : "g",
 			"clues": [
-				{"clue" : "Personal privacy is fine for those who want it. And we all draw the line somewhere.", "cluenumber" : "102"},
-				{"clue" : "We old men of the Internet are not freaking out about personal privacy.", "cluenumber" : "103"},
-				{"clue" : "The Web is barely out of its teens, and the most important decisions about personal privacy are being made by a kid who ten years ago was in his dorm room writing software to let horny boys in other dorm rooms \"rate\" women. That's not going to be the end of the privacy story.", "cluenumber" : "104"},
-				{"clue" : "Q: How long do you think it took for pre-Web culture to figure out where to draw the lines? A: How old is culture?", "cluenumber" : "105"},
-				{"clue" : "We can only figure out what it means to be private once we are at home with what it means to be social. And we've barely begun to invent that.", "cluenumber" : "106"},
-				{"clue" : "Hackers got us into this and hackers will have to get us out. Until then, the economic and political incentives to de-pants and up-skirt us will remain scarily strong.", "cluenumber" : "107"}
+				{"clue" : "Personal privacy is fine for those who want it. And we all draw the line somewhere.", "cluenumber" : "89"},
+				{"clue" : "Q: How long do you think it took for pre-Web culture to figure out where to draw the lines? A: How old is culture?", "cluenumber" : "90"},
+				{"clue" : " The Web is barely out of its teens. We are at the beginning, not the end, of the privacy story.", "cluenumber" : "91"},
+				{"clue" : "We can only figure out what it means to be private once we  figure out what it means to be social. And we've barely begun to re-invent that.", "cluenumber" : "92"},
+				{"clue" : "The economic and political incentives to de-pants and up-skirt  us are so strong that we'd be wise to invest in tinfoil underwear.", "cluenumber" : "93"},
+				{"clue" : "Hackers got us into this and hackers will have to get us out.", "cluenumber" : "94"}
 			]	
 		}
 		}
@@ -226,16 +216,16 @@
 			"title" : "Kumbiyah sounds surprisingly good in an echo chamber.",
 			"subheadnumber": "a",
 			"clues": [
-				{"clue" : "The Internet is astounding. The Web is awesome. You are beautiful. Connect us all and we are more crazily amazing than Jennifer Lawrence. These are simple facts.", "cluenumber" : "108"},
-				{"clue" : "So let's not minimize what the Net has done in the past twenty years:", "cluenumber" : "109"},
-				{"clue" : "There's so much more music in the world.", "cluenumber" : "110"},
-				{"clue" : "We now make most of our culture for ourselves, with occasional forays to a movie theater for something blowy-uppy and $9 nickel-bag of popcorn.", "cluenumber" : "111"},
-				{"clue" : "Politicians now have to explain their positions far beyond the one-page \"position papers\" they used to publish.", "cluenumber" : "112"},
-				{"clue" : "Anything you don't understand you can find an explanation for. And a discussion about. And an argument over. Is it not clear how awesome that is?", "cluenumber" : "113"},
-				{"clue" : "You want to know what to buy? The business that makes an object of desire is now the worst source of information about it. The best source is all of us.", "cluenumber" : "114"},
-				{"clue" : "You want to listen in on a college-level course about something you're interested in? Google your topic. Take your pick. For free.", "cluenumber" : "115"},
-				{"clue" : "Yeah, the Internet hasn't solved all the world's problems. That's why the Almighty hath given us asses: that we might get off of them.", "cluenumber" : "116"},
-				{"clue" : "Internet naysayers keep us honest. We just like 'em better when they aren't ingrates.", "cluenumber" : "117"}
+				{"clue" : "The Internet is astounding. The Web is awesome. You are beautiful. Connect us all and we are more crazily amazing than Jennifer Lawrence. These are simple facts.", "cluenumber" : "95"},
+				{"clue" : "So let's not minimize what the Net has done in the past twenty years:", "cluenumber" : "96"},
+				{"clue" : "There's so much more music in the world.", "cluenumber" : "97"},
+				{"clue" : "We now make most of our culture for ourselves, with occasional forays to a movie theater for something blowy-uppy and a $9 nickel-bag of popcorn.", "cluenumber" : "98"},
+				{"clue" : "Politicians now have to explain their positions far beyond the one-page \"position papers\" they used to mimeograph.", "cluenumber" : "99"},
+				{"clue" : "Anything you don't understand you can find an explanation for. And a discussion about. And an argument over. Is it not clear how awesome that is?", "cluenumber" : "100"},
+				{"clue" : "You want to know what to buy? The business that makes an object of desire is now the worst source of information about it. The best source is all of us.", "cluenumber" : "101"},
+				{"clue" : "You want to listen in on a college-level course about something you're interested in? Google your topic. Take your pick. For free.", "cluenumber" : "102"},
+				{"clue" : "Yeah, the Internet hasn't solved all the world's problems. That's why the Almighty hath given us asses: that we might get off of them.", "cluenumber" : "103"},
+				{"clue" : "Internet naysayers keep us honest. We just like 'em better when they aren't ingrates.", "cluenumber" : "104"}
 			]
 			}
 			},
@@ -243,18 +233,18 @@
 			"title" : "A pocket full of homilies.",
 			"subheadnumber": "b",
 			"clues": [
-				{"clue" : "We were going to tell you how to fix the Internet in four easy steps, but the only one we could remember is the last one: profit. So instead, here are some random thoughts…", "cluenumber" : "118"},
-				{"clue" : "We should be supporting the artists and creators who bring us delight or ease our burdens.", "cluenumber" : "119"},
-				{"clue" : "We should have the courage to ask for the help we need.", "cluenumber" : "120"},
-				{"clue" : "In the wrong context, everyone's an a-hole. (Us, too. But you already knew that.) So if you're inviting people over for a swim in your conversational pool, post the rules. All trolls, out of the pool!", "cluenumber" : "121"},
-				{"clue" : "If the conversations at your site are going badly, it's your fault.", "cluenumber" : "122"},
-				{"clue" : "Wherever the conversation is happening, no one owes you a response, no matter how reasonable your argument or how winning your smile.", "cluenumber" : "123"},
-				{"clue" : "Support the businesses that truly \"get\" the Web. You'll recognize them not just because they sound like us, but because they are on our side.", "cluenumber" : "124"},
-				{"clue" : "Sure, apps offer a nice experience. But the Web is about links that constantly reach out, connecting us without end. For lives and ideas, completion is death. Choose life.", "cluenumber" : "125"},
-				{"clue" : "Anger is a license to be stupid. The Internet's streets are already crowded with licensed drivers.", "cluenumber" : "126"},
-				{"clue" : "Remember when you were lost? Out of money? Afraid? Remember the person who welcomed you, fed you, listened? Be that person.", "cluenumber" : "127"},
-				{"clue" : "Live the values you want the Internet to promote.", "cluenumber" : "128"},
-				{"clue" : "If you've been talking for a while, shut up. (We will very soon.)", "cluenumber" : "129"}
+				{"clue" : "We were going to tell you how to fix the Internet in four easy steps, but the only one we could remember is the last one: profit. So instead, here are some random thoughts…", "cluenumber" : "105"},
+				{"clue" : "We should be supporting the artists and creators who bring us delight or ease our burdens.", "cluenumber" : "106"},
+				{"clue" : "We should have the courage to ask for the help we need.", "cluenumber" : "107"},
+				{"clue" : "We have a culture that defaults to sharing and laws that default to copyright. Copyright has its place, but when in doubt, open it up.", "cluenumber" : "108"},
+				{"clue" : "In the wrong context, everyone's an a-hole. (Us, too. But you already knew that.) So if you're inviting people over for a swim, post the rules. All trolls, out of the pool!", "cluenumber" : "109"},
+				{"clue" : "If the conversations at your site are going badly, it's your fault.", "cluenumber" : "110"},
+				{"clue" : "Wherever the conversation is happening, no one owes you a response, no matter how reasonable your argument or how winning your smile.", "cluenumber" : "111"},
+				{"clue" : "Support the businesses that truly \"get\" the Web. You'll recognize them not just because they sound like us, but because they're on our side.", "cluenumber" : "112"},
+				{"clue" : "Sure, apps offer a nice experience. But the Web is about links that constantly reach out, connecting us without end. For lives and ideas, completion is death. Choose life.", "cluenumber" : "113"},
+				{"clue" : "Anger is a license to be stupid. The Internet's streets are already crowded with licensed drivers.", "cluenumber" : "114"},
+				{"clue" : "Live the values you want the Internet to promote.", "cluenumber" : "115"},
+				{"clue" : "If you've been talking for a while, shut up. (We will very soon.)", "cluenumber" : "116"}
 				]
 			}
 			},
@@ -262,13 +252,14 @@
 				"title" : "Being together: the cause of and solution to every problem.",
 				"subheadnumber": "c",
 				"clues": [
-					{"clue" : "If we have focused on the role of the People of the Net  — you and us — in the Internet's fall from grace, that's because we still have the faith we came in with.", "cluenumber" : "130"},
-					{"clue" : "We, the People of the Net, cannot fathom how much we can do together because we are far from finished inventing how to be together.", "cluenumber" : "131"},
-					{"clue" : "The Internet has liberated an ancient force — the gravity drawing us together.", "cluenumber" : "132"},
-					{"clue" : "The gravity of connection is love.", "cluenumber" : "133"},
-					{"clue" : "Long live the open Internet.", "cluenumber" : "134"},
-					{"clue" : "Long may may we have our Internet to love.", "cluenumber" : "135"}
-				]
+					{"clue" : "Being together: the cause of and solution to every problem.", "cluenumber" : "117"},
+					{"clue" : "If we have focused on the role of the People of the Net  — you and us — in the Internet's fall from grace, that's because we still have the faith we came in with.", "cluenumber" : "118"},
+					{"clue" : "We, the People of the Net, cannot fathom how much we can do together because we are far from finished inventing how to be together.", "cluenumber" : "119"},
+					{"clue" : "The Internet has liberated an ancient force — the gravity drawing us together.", "cluenumber" : "120"},
+					{"clue" : "The gravity of connection is love.", "cluenumber" : "121"},
+					{"clue" : "Long live the open Internet.", "cluenumber" : "122"},
+					{"clue" : "Long may we have our Internet to love." ,"cluenumber" : "123"}
+					]
 			}
 			}
 			
