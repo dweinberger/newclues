@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
   <head>
-    <title>newClues</title>
+    <title>newclues</title>
+    <expansionState>0,1,19,20,28,37,41,48,56,57,70,78,95,105,113,118,125,126,137,150</expansionState>
   </head>
   <body>
     <outline text="Preamble">
       <outline text="Hear O Internet.">
         <outline text="It has been fifteen years since our previous communication."/>
         <outline text="In that time the People of the Internet — you and me and all our friends of friends of friends, unto the last Kevin Bacon — have made the Internet an awesome place, filled with wonders and portents."/>
-        <outline text="From the serious to the lolworthy to the wtf, we have up-ended titans, created heroes,  and changed the most basic assumptions about How Things Work and Who We Are."/>
+        <outline text="From the serious to the lolworthy to the wtf, we have up-ended titans, created heroes,  and changed the most basic assumptions about How Things Work and Who We Are."/>
         <outline text="But now all the good work we've done together faces mortal dangers."/>
         <outline text="When we first came before you, it was to warn of the threat posed by those who did not understand that they did not understand the Internet."/>
-        <outline text="These are The Fools, the businesses that have by now adopted the trappings of the Internet. They are like unto aging baby boomers wearing their baseball caps backwards. It's just embarrassing."/>
+        <outline text="These are The Fools, the businesses that have merely adopted the trappings of the Internet."/>
         <outline text="Now two more hordes threaten all that we have built for one another."/>
-        <outline text="The Marauders understand the Internet all too well. They view it as theirs to plunder, extracting our money and data from it, thinking that we are the fools."/>
+        <outline text="The Marauders understand the Internet all too well. They view it as theirs to plunder, extracting our data and money from it, thinking that we are the fools."/>
         <outline text="But most dangerous of all is the third horde: Us."/>
         <outline text="A horde is an undifferentiated mass of people. But the glory of the Internet is that it lets us connect as diverse and distinct individuals."/>
         <outline text="We all like mass entertainment. Heck, TV's gotten pretty great these days, and the Net lets us watch it when we want. Terrific."/>
         <outline text="But we need to remember that delivering mass media is the least of the Net's powers."/>
-        <outline text="The Net's super-power is that of connection without permission. Its almighty power is that we can make of it whatever we want."/>
-        <outline text="It is therefore not time to lean back and consume the content created by Fools and Marauders as if our work were done. It is time to breathe in the fire of the Net and transform every institution that would play us for a patsy."/>
-        <outline text="Make no mistake: We can lose the Internet we love with a stroke of a pen, a covert handshake, or by allowing memes to drown out the cries of the afflicted. This organ-by-organ body snatch is already well underway."/>
+        <outline text="The Net's super-power is connection without permission. Its almighty power is that we can make of it whatever we want."/>
+        <outline text="It is therefore not time to lean back and consume the oh-so-tasty junk food created by Fools and Marauders as if our work were done. It is time to breathe in the fire of the Net and transform every institution that would play us for a patsy."/>
+        <outline text="An organ-by-organ body snatch of the Internet is already well underway. Make no mistake: with a stroke of a pen, a covert handshake, or by allowing memes to drown out the cries of the afflicted we can lose the Internet we love."/>
         <outline text="We come to you from the years of the Web's beginning. We have grown old together on the Internet. Time is short."/>
         <outline text="We, the People of the Internet, need to remember the glory of its revelation so that we reclaim it now in the name of what it truly is.&#10;"/>
       </outline>
@@ -41,7 +42,7 @@
         <outline text="The first among these is: Thy network shall move all packets closer to their destinations without favor or delay based on origin, source, content, or intent."/>
         <outline text="Thus does this First Commandment lay open the Internet to every idea, application, business, quest, vice, and whatever."/>
         <outline text="There has not been a tool with such a general purpose since language."/>
-        <outline text="This means the Internet is not for anything special or in particular. Not for social networking, not for documents, not for advertising, not for business, not for education, not for porn, not for anything. It is specifically designed for everything."/>
+        <outline text="This means the Internet is not for anything in particular. Not for social networking, not for documents, not for advertising, not for business, not for education, not for porn, not for anything. It is specifically designed for everything."/>
         <outline text="Optimizing the Internet for one purpose de-optimizes it for all others."/>
         <outline text="The Internet like gravity is indiscriminate in its attraction. It pulls us all together, the virtuous and the wicked alike."/>
       </outline>
@@ -55,22 +56,21 @@
         <outline text="On the Net, we are the medium. We are the ones who move messages. We do so every time we post or retweet, send a link in an email, or post it on a social network."/>
         <outline text="Unlike a medium, you and I leave our fingerprints, and sometimes bite marks, on the messages we pass. We tell people why we're sending it. We argue with it. We add a joke. We chop off the part we don't like. We make these messages our own."/>
         <outline text="Every time we move a message through the Net, it carries a little bit of ourselves with it."/>
-        <outline text="If the Net were a medium, then you and we and everyone else would be naught but noise."/>
         <outline text="We only move a message through this &quot;medium&quot; if it matters to us in one of the infinite ways that humans care about something."/>
         <outline text="Caring — mattering — is the motive force of the Internet."/>
-        <outline text="The Web is a Wide World">
-          <outline text="In 1991, Tim Berners-Lee — or, as we refer to him, &quot;Sir&quot; — used the Net to build one of the greatest gifts in our short history together: the World Wide Web. Thank you."/>
-          <outline text="Boom. Within ten years we had billions of pages on the Web — a combined effort on the order of a World War, and yet so benign that the biggest complaint was the &lt;blink&gt; tag."/>
-          <outline text="The Web is an impossibly large, semi-persistent realm of items discoverable in their dense inter-connections."/>
-          <outline text="That sounds familiar. Oh, yeah, that's what the world is."/>
-          <outline text="Unlike the real world, every thing and every connection on the Web was created by some one of us expressing an interest and an assumption about how those small pieces go together."/>
-          <outline text="Every  link is a little act of generosity, a little act of selflessness, bidding our readers leave our page to see how the world looks to someone else."/>
-          <outline text="The Web remakes the world in our collective, emergent image."/>
-        </outline>
+      </outline>
+      <outline text="The Web is a Wide World">
+        <outline text="In 1991, Tim Berners-Lee used the Net to create a gift he gave freely to us all: the World Wide Web. Thank you"/>
+        <outline text="Boom. Within ten years we had billions of pages on the Web — a combined effort on the order of a World War, and yet so benign that the biggest complaint was the &lt;blink&gt; tag."/>
+        <outline text="The Web is an impossibly large, semi-persistent realm of items discoverable in their dense inter-connections."/>
+        <outline text="That sounds familiar. Oh, yeah, that's what the world is."/>
+        <outline text="Unlike the real world, every thing and every connection on the Web was created by some one of us expressing an interest and an assumption about how those small pieces go together."/>
+        <outline text="Every  link is a little act of generosity, a little act of selflessness, bidding our readers leave our page to see how the world looks to someone else."/>
+        <outline text="The Web remakes the world in our collective, emergent image."/>
       </outline>
     </outline>
     <outline text="But oh how we have strayed, sisters and brothers…">
-      <outline text="When did conversation get weaponized?">
+      <outline text="How did we let conversation get weaponized anyway?">
         <outline text="It's important to notice and cherish the talk, the friendship, the thousand acts of sympathy, kindness, and joy we encounter on the Internet."/>
         <outline text="And yet we hear the words &quot;fag&quot; and &quot;nigger&quot; far more on the Net than off."/>
         <outline text="Demonization of 'them' — people with looks, languages, opinions, memberships and other groupings we don't understand, like, or tolerate — is worse than ever on the Internet."/>
@@ -87,7 +87,7 @@
       <outline text="&quot;We agree about everything. I find you fascinating!&quot;">
         <outline text="The world is spread out before us like a buffet, and yet we stick with our steak and potatoes, lamb and hummus, fish and rice, or whatever."/>
         <outline text="We do this in part because conversation requires a common ground: shared language, interests, norms, understandings. Without those, it's hard or even impossible to have a conversation."/>
-        <outline text="Shared grounds spawn tribes. The literal ground kept tribes at a distance, enabling them to develop rich differences. Rejoice! Tribes give rise to Us vs. Them and war. Rejoice? Not so much."/>
+        <outline text="Shared grounds spawn tribes. The Earth’s solid ground kept tribes at a distance, enabling them to develop rich differences. Rejoice! Tribes give rise to Us vs. Them and war. Rejoice? Not so much."/>
         <outline text="On the Internet, the distance between tribes starts at zero."/>
         <outline text="Apparently knowing how to find one another interesting is not as easy as it looks."/>
         <outline text="That's a challenge we can meet by being open, sympathetic, and patient. We can do it, team! We're #1! We're #1!"/>
@@ -139,12 +139,10 @@
       </outline>
       <outline text="Privacy in an age of weasels.">
         <outline text="Personal privacy is fine for those who want it. And we all draw the line somewhere."/>
-        <outline text="Q: How long do you think it took for pre-Web culture to figure out where to draw the lines? A: How old is culture?">
-          <outline text="The Web is barely out of its teens. We are at the beginning, not the end, of the privacy story."/>
-        </outline>
-        <outline text="We can only figure out what it means to be private once we  figure out what it means to be social. And we've barely begun to re-invent that.">
-          <outline text="The economic and political incentives to de-pants and up-skirt  us are so strong that we'd be wise to invest in tinfoil underwear."/>
-        </outline>
+        <outline text="Q: How long do you think it took for pre-Web culture to figure out where to draw the lines? A: How old is culture?"/>
+        <outline text="The Web is barely out of its teens. We are at the beginning, not the end, of the privacy story."/>
+        <outline text="We can only figure out what it means to be private once we  figure out what it means to be social. And we've barely begun to re-invent that."/>
+        <outline text="The economic and political incentives to de-pants and up-skirt  us are so strong that we'd be wise to invest in tinfoil underwear."/>
         <outline text="Hackers got us into this and hackers will have to get us out."/>
       </outline>
     </outline>
