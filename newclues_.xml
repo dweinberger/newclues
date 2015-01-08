@@ -65,7 +65,7 @@
                            <cluenumber>12</cluenumber>
                         </element>
                         <element>
-                           <clue>This means the Internet is not for anything special or in particular. Not for social networking, not for documents, not for advertising, not for business, not for education, not for porn, not for anything. It is specifically designed for everything.</clue>
+                           <clue>This means the Internet is not for anything in particular. Not for social networking, not for documents, not for advertising, not for business, not for education, not for porn, not for anything. It is specifically designed for everything.</clue>
                            <cluenumber>13</cluenumber>
                         </element>
                         <element>
@@ -121,16 +121,12 @@
                            <cluenumber>22</cluenumber>
                         </element>
                         <element>
-                           <clue>If the Net were a medium, then you and we and everyone else would be naught but noise.</clue>
+                           <clue>We only move a message through this "medium" if it matters to us in one of the infinite ways that humans care about something.</clue>
                            <cluenumber>23</cluenumber>
                         </element>
                         <element>
-                           <clue>We only move a message through this "medium" if it matters to us in one of the infinite ways that humans care about something.</clue>
-                           <cluenumber>24</cluenumber>
-                        </element>
-                        <element>
                            <clue>Caring — mattering — is the motive force of the Internet.</clue>
-                           <cluenumber>25</cluenumber>
+                           <cluenumber>24</cluenumber>
                         </element>
                      </clues>
                      <subheadnumber>d</subheadnumber>
@@ -141,36 +137,36 @@
                   <subhead>
                      <clues>
                         <element>
-                           <clue>In 1991, Tim Berners-Lee — or, as we refer to him, "Sir" — used the Net to build one of the greatest gifts in our short history together: the World Wide Web. Thank you.</clue>
+                           <clue>In 1991, Tim Berners-Lee used the Net to create a gift he gave freely to us all: the World Wide Web. Thank you.</clue>
+                           <cluenumber>25</cluenumber>
+                        </element>
+                        <element>
+                           <clue>Tim created the Web by providing protocols (there's that word again!) that say how to write a page that can link to any other page without needing anyone's permission.</clue>
                            <cluenumber>26</cluenumber>
                         </element>
                         <element>
-                           <clue>TBL created the Web by providing protocols (there's that word again!) that say how to write a page that can link to any other page without needing anyone's permission.</clue>
+                           <clue>Boom. Within ten years we had billions of pages on the Web — a combined effort on the order of a World War, and yet so benign that the biggest complaint was the &lt;blink&gt; tag.</clue>
                            <cluenumber>27</cluenumber>
                         </element>
                         <element>
-                           <clue>Boom. Within ten years we had billions of pages on the Web — a combined effort on the order of a World War, and yet so benign that the biggest complaint was the &lt;blink&gt; tag.</clue>
+                           <clue>The Web is an impossibly large, semi-persistent realm of items discoverable in their dense inter-connections.</clue>
                            <cluenumber>28</cluenumber>
                         </element>
                         <element>
-                           <clue>The Web is an impossibly large, semi-persistent realm of items discoverable in their dense inter-connections.</clue>
+                           <clue>That sounds familiar. Oh, yeah, that's what the world is.</clue>
                            <cluenumber>29</cluenumber>
                         </element>
                         <element>
-                           <clue>That sounds familiar. Oh, yeah, that's what the world is.</clue>
+                           <clue>Unlike the real world, every thing and every connection on the Web was created by some one of us expressing an interest and an assumption about how those small pieces go together.</clue>
                            <cluenumber>30</cluenumber>
                         </element>
                         <element>
-                           <clue>Unlike the real world, every thing and every connection on the Web was created by some one of us expressing an interest and an assumption about how those small pieces go together.</clue>
+                           <clue>Every link by a person with something to say is an act of generosity and selflessness, bidding our readers leave our page to see how the world looks to someone else.</clue>
                            <cluenumber>31</cluenumber>
                         </element>
                         <element>
-                           <clue>Every  link is a little act of generosity, a little act of selflessness, bidding our readers leave our page to see how the world looks to someone else.</clue>
-                           <cluenumber>32</cluenumber>
-                        </element>
-                        <element>
                            <clue>The Web remakes the world in our collective, emergent image.</clue>
-                           <cluenumber>33</cluenumber>
+                           <cluenumber>32</cluenumber>
                         </element>
                      </clues>
                      <subheadnumber>e</subheadnumber>
@@ -188,55 +184,55 @@
                      <clues>
                         <element>
                            <clue>It's important to notice and cherish the talk, the friendship, the thousand acts of sympathy, kindness, and joy we encounter on the Internet.</clue>
-                           <cluenumber>34</cluenumber>
+                           <cluenumber>33</cluenumber>
                         </element>
                         <element>
                            <clue>And yet we hear the words "fag" and "nigger" far more on the Net than off.</clue>
-                           <cluenumber>35</cluenumber>
+                           <cluenumber>34</cluenumber>
                         </element>
                         <element>
                            <clue>Demonization of 'them' — people with looks, languages, opinions, memberships and other groupings we don't understand, like, or tolerate — is worse than ever on the Internet.</clue>
-                           <cluenumber>36</cluenumber>
+                           <cluenumber>35</cluenumber>
                         </element>
                         <element>
                            <clue>Women in Saudi Arabia can't drive? Meanwhile, half of us can't speak on the Net without looking over our shoulders.</clue>
-                           <cluenumber>37</cluenumber>
+                           <cluenumber>36</cluenumber>
                         </element>
                         <element>
                            <clue>Hatred is present on the Net because it's present in the world, but the Net makes it easier to express and to hear.</clue>
-                           <cluenumber>38</cluenumber>
+                           <cluenumber>37</cluenumber>
                         </element>
                         <element>
                            <clue>The solution: If we had a solution, we wouldn't be bothering you with all these damn clues.</clue>
-                           <cluenumber>39</cluenumber>
+                           <cluenumber>38</cluenumber>
                         </element>
                         <element>
                            <clue>We can say this much: Hatred didn't call the Net into being, but it is holding the Net — and us — back.</clue>
-                           <cluenumber>40</cluenumber>
+                           <cluenumber>39</cluenumber>
                         </element>
                         <element>
                            <clue>Let's at least acknowledge that the Net has values implicit in it. Human values.</clue>
-                           <cluenumber>41</cluenumber>
+                           <cluenumber>40</cluenumber>
                         </element>
                         <element>
                            <clue>Viewed coldly the Net is just technology. But it's populated by creatures who are warm with what they care about: their lives, their friends, the world we share.</clue>
-                           <cluenumber>42</cluenumber>
+                           <cluenumber>41</cluenumber>
                         </element>
                         <element>
                            <clue>The Net offers us a common place where we can be who we are, with others who delight in our differences.</clue>
-                           <cluenumber>43</cluenumber>
+                           <cluenumber>42</cluenumber>
                         </element>
                         <element>
                            <clue>No one owns that place. Everybody can use it. Anyone can improve it.</clue>
-                           <cluenumber>44</cluenumber>
+                           <cluenumber>43</cluenumber>
                         </element>
                         <element>
                            <clue>That's what an open Internet is. Wars have been fought for less.</clue>
-                           <cluenumber>45</cluenumber>
+                           <cluenumber>44</cluenumber>
                         </element>
                      </clues>
                      <subheadnumber>a</subheadnumber>
-                     <title>When did conversation become weaponized, anyway?</title>
+                     <title>How did we weaponize conversation, anyway?</title>
                   </subhead>
                </element>
                <element>
@@ -244,31 +240,31 @@
                      <clues>
                         <element>
                            <clue>The world is spread out before us like a buffet, and yet we stick with our steak and potatoes, lamb and hummus, fish and rice, or whatever.</clue>
-                           <cluenumber>46</cluenumber>
+                           <cluenumber>45</cluenumber>
                         </element>
                         <element>
                            <clue>We do this in part because conversation requires a common ground: shared language, interests, norms, understandings. Without those, it's hard or even impossible to have a conversation.</clue>
+                           <cluenumber>46</cluenumber>
+                        </element>
+                        <element>
+                           <clue>Shared grounds spawn tribes. The Earth's solid ground kept tribes at a distance, enabling them to develop rich differences. Rejoice! Tribes give rise to Us vs. Them and war. Rejoice? Not so much.</clue>
                            <cluenumber>47</cluenumber>
                         </element>
                         <element>
-                           <clue>Shared grounds spawn tribes. The literal ground kept tribes at a distance, enabling them to develop rich differences. Rejoice! Tribes give rise to Us vs. Them and war. Rejoice? Not so much.</clue>
+                           <clue>On the Internet, the distance between tribes starts at zero.</clue>
                            <cluenumber>48</cluenumber>
                         </element>
                         <element>
-                           <clue>On the Internet, the distance between tribes starts at zero.</clue>
+                           <clue>Apparently knowing how to find one another interesting is not as easy as it looks.</clue>
                            <cluenumber>49</cluenumber>
                         </element>
                         <element>
-                           <clue>Apparently knowing how to find one another interesting is not as easy as it looks.</clue>
+                           <clue>That's a challenge we can meet by being open, sympathetic, and patient. We can do it, team! We're #1! We're #1!</clue>
                            <cluenumber>50</cluenumber>
                         </element>
                         <element>
-                           <clue>That's a challenge we can meet by being open, sympathetic, and patient. We can do it, team! We're #1! We're #1!</clue>
-                           <cluenumber>51</cluenumber>
-                        </element>
-                        <element>
                            <clue>Being welcoming: There's a value the Net needs to learn from the best of our real world cultures.</clue>
-                           <cluenumber>52</cluenumber>
+                           <cluenumber>51</cluenumber>
                         </element>
                      </clues>
                      <subheadnumber>b</subheadnumber>
@@ -280,67 +276,67 @@
                      <clues>
                         <element>
                            <clue>We were right the first time: Markets are conversations.</clue>
-                           <cluenumber>53</cluenumber>
+                           <cluenumber>52</cluenumber>
                         </element>
                         <element>
                            <clue>A conversation isn't your business tugging at our sleeve to shill a product we don't want to hear about.</clue>
-                           <cluenumber>54</cluenumber>
+                           <cluenumber>53</cluenumber>
                         </element>
                         <element>
                            <clue>if we want to know the truth about your products, we'll find out from one another.</clue>
-                           <cluenumber>55</cluenumber>
+                           <cluenumber>54</cluenumber>
                         </element>
                         <element>
                            <clue>We understand that these conversations are incredibly valuable to you. Too bad. They're ours.</clue>
-                           <cluenumber>56</cluenumber>
+                           <cluenumber>55</cluenumber>
                         </element>
                         <element>
                            <clue>You're welcome to join our conversation, but only if you tell us who you work for, and if you can speak for yourself and as yourself.</clue>
-                           <cluenumber>57</cluenumber>
+                           <cluenumber>56</cluenumber>
                         </element>
                         <element>
                            <clue>Every time you call us "consumers" we feel like cows looking up the word "meat."</clue>
-                           <cluenumber>58</cluenumber>
+                           <cluenumber>57</cluenumber>
                         </element>
                         <element>
                            <clue>Quit fracking our lives to extract data that's none of your business and your machines misinterpret.</clue>
-                           <cluenumber>59</cluenumber>
+                           <cluenumber>58</cluenumber>
                         </element>
                         <element>
                            <clue>Don't worry: we'll tell you when we're in the market for something. In our own way. Not yours. Trust us: this will be good for you.</clue>
-                           <cluenumber>60</cluenumber>
+                           <cluenumber>59</cluenumber>
                         </element>
                         <element>
                            <clue>Ads that sound human but come from your marketing department's irritable bowels, stain the fabric of the Web.</clue>
-                           <cluenumber>61</cluenumber>
+                           <cluenumber>60</cluenumber>
                         </element>
                         <element>
                            <clue>When personalizing something is creepy, it's a pretty good indication that you don't understand what it means to be a person.</clue>
-                           <cluenumber>62</cluenumber>
+                           <cluenumber>61</cluenumber>
                         </element>
                         <element>
                            <clue>Personal is human. Personalized isn't.</clue>
-                           <cluenumber>63</cluenumber>
+                           <cluenumber>62</cluenumber>
                         </element>
                         <element>
                            <clue>The more machines sound human, the more they slide down into the uncanny valley where everything is a creep show.</clue>
-                           <cluenumber>64</cluenumber>
+                           <cluenumber>63</cluenumber>
                         </element>
                         <element>
                            <clue>Also: Please stop dressing up ads as news in the hope we'll miss the little disclaimer hanging off their underwear.</clue>
-                           <cluenumber>65</cluenumber>
+                           <cluenumber>64</cluenumber>
                         </element>
                         <element>
                            <clue>When you place a "native ad," you're eroding not just your own trustworthiness, but the trustworthiness of this entire new way of being with one another.</clue>
-                           <cluenumber>66</cluenumber>
+                           <cluenumber>65</cluenumber>
                         </element>
                         <element>
                            <clue>And, by the way, how about calling "native ads" by any of their real names: "product placement," "advertorial," or "fake fuckinggosh darn news"?</clue>
-                           <cluenumber>67</cluenumber>
+                           <cluenumber>66</cluenumber>
                         </element>
                         <element>
                            <clue>Advertisers got along without being creepy for generations. They can get along without being creepy on the Net, too.</clue>
-                           <cluenumber>68</cluenumber>
+                           <cluenumber>67</cluenumber>
                         </element>
                      </clues>
                      <subheadnumber>c</subheadnumber>
@@ -352,39 +348,39 @@
                      <clues>
                         <element>
                            <clue>We all love our shiny apps, even when they're sealed as tight as a Moon base. But put all the closed apps in the world together and you have a pile of apps.</clue>
-                           <cluenumber>69</cluenumber>
+                           <cluenumber>68</cluenumber>
                         </element>
                         <element>
                            <clue>Put all the Web pages together and you have a new world.</clue>
-                           <cluenumber>70</cluenumber>
+                           <cluenumber>69</cluenumber>
                         </element>
                         <element>
                            <clue>Web pages are about connecting. Apps are about control.</clue>
-                           <cluenumber>71</cluenumber>
+                           <cluenumber>70</cluenumber>
                         </element>
                         <element>
                            <clue>As we move from the Web to an app-based world, we lose the commons we were building together.</clue>
-                           <cluenumber>72</cluenumber>
+                           <cluenumber>71</cluenumber>
                         </element>
                         <element>
                            <clue>In the Kingdom of Apps, we are users, not makers.</clue>
-                           <cluenumber>73</cluenumber>
+                           <cluenumber>72</cluenumber>
                         </element>
                         <element>
                            <clue>Every new page makes the Web bigger. Every new link makes the Web richer.</clue>
-                           <cluenumber>74</cluenumber>
+                           <cluenumber>73</cluenumber>
                         </element>
                         <element>
                            <clue>Every new app gives us something else to do on the bus.</clue>
-                           <cluenumber>75</cluenumber>
+                           <cluenumber>74</cluenumber>
                         </element>
                         <element>
                            <clue>Ouch, a cheap shot!</clue>
-                           <cluenumber>76</cluenumber>
+                           <cluenumber>75</cluenumber>
                         </element>
                         <element>
                            <clue>Hey, "CheapShot" would make a great new app! It's got "in-app purchase" written all over it.</clue>
-                           <cluenumber>77</cluenumber>
+                           <cluenumber>76</cluenumber>
                         </element>
                      </clues>
                      <subheadnumber>d</subheadnumber>
@@ -396,31 +392,31 @@
                      <clues>
                         <element>
                            <clue>Non-neutral applications built on top of the neutral Net are becoming as inescapable as the pull of a black hole.</clue>
-                           <cluenumber>78</cluenumber>
+                           <cluenumber>77</cluenumber>
                         </element>
                         <element>
                            <clue>If Facebook is your experience of the Net, then you've strapped on goggles from a company with a fiduciary responsibility to keep you from ever taking the goggles off.</clue>
-                           <cluenumber>79</cluenumber>
+                           <cluenumber>78</cluenumber>
                         </element>
                         <element>
                            <clue>Google, Amazon, Facebook, Apple are all in the goggles business.  The biggest truth their goggles obscure: These companies want to hold us the way black holes hold light.</clue>
-                           <cluenumber>80</cluenumber>
+                           <cluenumber>79</cluenumber>
                         </element>
                         <element>
                            <clue>These corporate singularities are dangerous not because they are evil. Many of them in fact engage in quite remarkably civic behavior. They should be applauded for that.</clue>
-                           <cluenumber>81</cluenumber>
+                           <cluenumber>80</cluenumber>
                         </element>
                         <element>
                            <clue>But they benefit from the gravity of sociality: The "network effect" is that thing where lots of people use something because lots of people use it.</clue>
-                           <cluenumber>82</cluenumber>
+                           <cluenumber>81</cluenumber>
                         </element>
                         <element>
                            <clue>Where there aren't competitive alternatives, we need to be hypervigilant to remind these Titans of the Valley of the webby values that first inspired them.</clue>
-                           <cluenumber>83</cluenumber>
+                           <cluenumber>82</cluenumber>
                         </element>
                         <element>
                            <clue>And then we need to honor the sound we make when any of us bravely pulls away from them. It's something between the noise of a rocket leaving the launchpad and the rip of Velcro as you undo a too-tight garment.</clue>
-                           <cluenumber>84</cluenumber>
+                           <cluenumber>83</cluenumber>
                         </element>
                      </clues>
                      <subheadnumber>e</subheadnumber>
@@ -432,19 +428,19 @@
                      <clues>
                         <element>
                            <clue>Ok, government, you win. You've got our data. Now, what can we do to make sure you use it against Them and not against Us? In fact, can you tell the difference?</clue>
-                           <cluenumber>85</cluenumber>
+                           <cluenumber>84</cluenumber>
                         </element>
                         <element>
                            <clue>If we want our government to back off, the deal has to be that if — when — the next attack comes, we can't complain that they should have surveilled us harder.</clue>
-                           <cluenumber>86</cluenumber>
+                           <cluenumber>85</cluenumber>
                         </element>
                         <element>
                            <clue>A trade isn't fair trade if we don't know what we're giving up. Do you hear that, Security for Privacy trade-off?</clue>
-                           <cluenumber>87</cluenumber>
+                           <cluenumber>86</cluenumber>
                         </element>
                         <element>
                            <clue>With a probability approaching absolute certainty, we are going to be sorry we didn't do more to keep data out of the hands of our governments and corporate overlords.</clue>
-                           <cluenumber>88</cluenumber>
+                           <cluenumber>87</cluenumber>
                         </element>
                      </clues>
                      <subheadnumber>f</subheadnumber>
@@ -456,27 +452,27 @@
                      <clues>
                         <element>
                            <clue>Personal privacy is fine for those who want it. And we all draw the line somewhere.</clue>
-                           <cluenumber>89</cluenumber>
+                           <cluenumber>88</cluenumber>
                         </element>
                         <element>
                            <clue>Q: How long do you think it took for pre-Web culture to figure out where to draw the lines? A: How old is culture?</clue>
-                           <cluenumber>90</cluenumber>
+                           <cluenumber>89</cluenumber>
                         </element>
                         <element>
                            <clue>The Web is barely out of its teens. We are at the beginning, not the end, of the privacy story.</clue>
+                           <cluenumber>90</cluenumber>
+                        </element>
+                        <element>
+                           <clue>We can only figure out what it means to be private once we  figure out what it means to be social. And we've only begun to re-invent that.</clue>
                            <cluenumber>91</cluenumber>
                         </element>
                         <element>
-                           <clue>We can only figure out what it means to be private once we  figure out what it means to be social. And we've barely begun to re-invent that.</clue>
+                           <clue>The economic and political incentives to de-pants and up-skirt  us are so strong that we'd be wise to invest in tinfoil underwear.</clue>
                            <cluenumber>92</cluenumber>
                         </element>
                         <element>
-                           <clue>The economic and political incentives to de-pants and up-skirt  us are so strong that we'd be wise to invest in tinfoil underwear.</clue>
-                           <cluenumber>93</cluenumber>
-                        </element>
-                        <element>
                            <clue>Hackers got us into this and hackers will have to get us out.</clue>
-                           <cluenumber>94</cluenumber>
+                           <cluenumber>93</cluenumber>
                         </element>
                      </clues>
                      <subheadnumber>g</subheadnumber>
@@ -494,43 +490,43 @@
                      <clues>
                         <element>
                            <clue>The Internet is astounding. The Web is awesome. You are beautiful. Connect us all and we are more crazily amazing than Jennifer Lawrence. These are simple facts.</clue>
-                           <cluenumber>95</cluenumber>
+                           <cluenumber>94</cluenumber>
                         </element>
                         <element>
                            <clue>So let's not minimize what the Net has done in the past twenty years:</clue>
-                           <cluenumber>96</cluenumber>
+                           <cluenumber>95</cluenumber>
                         </element>
                         <element>
                            <clue>There's so much more music in the world.</clue>
-                           <cluenumber>97</cluenumber>
+                           <cluenumber>96</cluenumber>
                         </element>
                         <element>
                            <clue>We now make most of our culture for ourselves, with occasional forays to a movie theater for something blowy-uppy and a $9 nickel-bag of popcorn.</clue>
-                           <cluenumber>98</cluenumber>
+                           <cluenumber>97</cluenumber>
                         </element>
                         <element>
                            <clue>Politicians now have to explain their positions far beyond the one-page "position papers" they used to mimeograph.</clue>
-                           <cluenumber>99</cluenumber>
+                           <cluenumber>98</cluenumber>
                         </element>
                         <element>
                            <clue>Anything you don't understand you can find an explanation for. And a discussion about. And an argument over. Is it not clear how awesome that is?</clue>
-                           <cluenumber>100</cluenumber>
+                           <cluenumber>99</cluenumber>
                         </element>
                         <element>
                            <clue>You want to know what to buy? The business that makes an object of desire is now the worst source of information about it. The best source is all of us.</clue>
-                           <cluenumber>101</cluenumber>
+                           <cluenumber>100</cluenumber>
                         </element>
                         <element>
                            <clue>You want to listen in on a college-level course about something you're interested in? Google your topic. Take your pick. For free.</clue>
-                           <cluenumber>102</cluenumber>
+                           <cluenumber>101</cluenumber>
                         </element>
                         <element>
                            <clue>Yeah, the Internet hasn't solved all the world's problems. That's why the Almighty hath given us asses: that we might get off of them.</clue>
-                           <cluenumber>103</cluenumber>
+                           <cluenumber>102</cluenumber>
                         </element>
                         <element>
                            <clue>Internet naysayers keep us honest. We just like 'em better when they aren't ingrates.</clue>
-                           <cluenumber>104</cluenumber>
+                           <cluenumber>103</cluenumber>
                         </element>
                      </clues>
                      <subheadnumber>a</subheadnumber>
@@ -542,51 +538,51 @@
                      <clues>
                         <element>
                            <clue>We were going to tell you how to fix the Internet in four easy steps, but the only one we could remember is the last one: profit. So instead, here are some random thoughts…</clue>
-                           <cluenumber>105</cluenumber>
+                           <cluenumber>104</cluenumber>
                         </element>
                         <element>
                            <clue>We should be supporting the artists and creators who bring us delight or ease our burdens.</clue>
-                           <cluenumber>106</cluenumber>
+                           <cluenumber>105</cluenumber>
                         </element>
                         <element>
                            <clue>We should have the courage to ask for the help we need.</clue>
-                           <cluenumber>107</cluenumber>
+                           <cluenumber>106</cluenumber>
                         </element>
                         <element>
                            <clue>We have a culture that defaults to sharing and laws that default to copyright. Copyright has its place, but when in doubt, open it up.</clue>
-                           <cluenumber>108</cluenumber>
+                           <cluenumber>107</cluenumber>
                         </element>
                         <element>
                            <clue>In the wrong context, everyone's an a-hole. (Us, too. But you already knew that.) So if you're inviting people over for a swim, post the rules. All trolls, out of the pool!</clue>
-                           <cluenumber>109</cluenumber>
+                           <cluenumber>108</cluenumber>
                         </element>
                         <element>
                            <clue>If the conversations at your site are going badly, it's your fault.</clue>
-                           <cluenumber>110</cluenumber>
+                           <cluenumber>109</cluenumber>
                         </element>
                         <element>
                            <clue>Wherever the conversation is happening, no one owes you a response, no matter how reasonable your argument or how winning your smile.</clue>
-                           <cluenumber>111</cluenumber>
+                           <cluenumber>110</cluenumber>
                         </element>
                         <element>
                            <clue>Support the businesses that truly "get" the Web. You'll recognize them not just because they sound like us, but because they're on our side.</clue>
-                           <cluenumber>112</cluenumber>
+                           <cluenumber>111</cluenumber>
                         </element>
                         <element>
                            <clue>Sure, apps offer a nice experience. But the Web is about links that constantly reach out, connecting us without end. For lives and ideas, completion is death. Choose life.</clue>
-                           <cluenumber>113</cluenumber>
+                           <cluenumber>112</cluenumber>
                         </element>
                         <element>
                            <clue>Anger is a license to be stupid. The Internet's streets are already crowded with licensed drivers.</clue>
-                           <cluenumber>114</cluenumber>
+                           <cluenumber>113</cluenumber>
                         </element>
                         <element>
                            <clue>Live the values you want the Internet to promote.</clue>
-                           <cluenumber>115</cluenumber>
+                           <cluenumber>114</cluenumber>
                         </element>
                         <element>
                            <clue>If you've been talking for a while, shut up. (We will very soon.)</clue>
-                           <cluenumber>116</cluenumber>
+                           <cluenumber>115</cluenumber>
                         </element>
                      </clues>
                      <subheadnumber>b</subheadnumber>
@@ -597,32 +593,28 @@
                   <subhead>
                      <clues>
                         <element>
-                           <clue>Being together: the cause of and solution to every problem.</clue>
-                           <cluenumber>117</cluenumber>
-                        </element>
-                        <element>
                            <clue>If we have focused on the role of the People of the Net  — you and us — in the Internet's fall from grace, that's because we still have the faith we came in with.</clue>
-                           <cluenumber>118</cluenumber>
+                           <cluenumber>116</cluenumber>
                         </element>
                         <element>
                            <clue>We, the People of the Net, cannot fathom how much we can do together because we are far from finished inventing how to be together.</clue>
-                           <cluenumber>119</cluenumber>
+                           <cluenumber>117</cluenumber>
                         </element>
                         <element>
                            <clue>The Internet has liberated an ancient force — the gravity drawing us together.</clue>
-                           <cluenumber>120</cluenumber>
+                           <cluenumber>118</cluenumber>
                         </element>
                         <element>
                            <clue>The gravity of connection is love.</clue>
-                           <cluenumber>121</cluenumber>
+                           <cluenumber>119</cluenumber>
                         </element>
                         <element>
                            <clue>Long live the open Internet.</clue>
-                           <cluenumber>122</cluenumber>
+                           <cluenumber>120</cluenumber>
                         </element>
                         <element>
                            <clue>Long may we have our Internet to love.</clue>
-                           <cluenumber>123</cluenumber>
+                           <cluenumber>121</cluenumber>
                         </element>
                      </clues>
                      <subheadnumber>c</subheadnumber>
@@ -630,7 +622,7 @@
                   </subhead>
                </element>
             </subheads>
-            <title>Shall we gather at the river?</title>
+            <title>To build and to plant...</title>
          </element>
       </chapter>
    </all_clues>
@@ -638,18 +630,23 @@
       <element>Doc Searls</element>
       <element>David Weinberger</element>
    </authors>
-   <date>02.05.2015</date>
+   <date>07.02.2015</date>
    <preamble>
-      <element>Hear, O Internet.</element>
-      <element>It has been fifteen years since our previous communication.   In that time the People of the Internet — you and me and all our friends of friends of friends, unto the last Kevin Bacon — have made the Internet an awesome place, filled with wonders and portents.</element>
+      <element>It has been fifteen years since our previouscommunication.</element>
+      <element>In that time the People of the Internet — you and me and all our friends of friends of friends, unto the last Kevin Bacon — have made the Internet an awesome place, filled with wonders and portents.</element>
       <element>From the serious to the lolworthy to the wtf, we have up-ended titans, created heroes,  and changed the most basic assumptions about How Things Work and Who We Are.</element>
       <element>But now all the good work we've done together faces mortal dangers.</element>
       <element>When we first came before you, it was to warn of the threat posed by those who did not understand that they did not understand the Internet.</element>
-      <element>These are The Fools, and they are with us still, although many have by now adopted the trappings of the Internet. They are like unto aging baby boomers wearing their baseball caps backwards. It's just embarrassing.</element>
+      <element>These are The Fools, the businesses that have merely adopted the trappings of the Internet.</element>
       <element>Now two more hordes threaten all that we have built for one another.</element>
-      <element>The Marauders understand the Internet all too well. They view it as theirs to plunder, extracting our money and data from it, thinking that we are the fools.</element>
-      <element>Then there is the horde of our own Evil Inclinations. We give in to this eternal aspect of our nature when we too easily exchange the truly valuable for the merely shiny — and then we sit back complicitly as the Fools and Marauders amplify the very worst of what we are.</element>
-      <element>Make no mistake: We can lose the Internet we love with a stroke of a pen, a covert handshake, or by allowing memes to drown out the cries of the afflicted.</element>
+      <element>The Marauders understand the Internet all too well. They view it as theirs to plunder, extracting our data and money from it, thinking that we are the fools.</element>
+      <element>But most dangerous of all is the third horde: Us.</element>
+      <element>A horde is an undifferentiated mass of people. But the glory of the Internet is that it lets us connect as diverse and distinct individuals.</element>
+      <element>We all like mass entertainment. Heck, TV's gotten pretty great these days, and the Net lets us watch it when we want. Terrific.</element>
+      <element>But we need to remember that delivering mass media is the least of the Net's powers.</element>
+      <element>The Net's super-power is connection without permission. Its almighty power is that we can make of it whatever we want.</element>
+      <element>It is therefore not time to lean back and consume the oh-so-tasty junk food created by Fools and Marauders as if our work were done. It is time to breathe in the fire of the Net and transform every institution that would play us for a patsy.</element>
+      <element>An organ-by-organ body snatch of the Internet is already well underway. Make no mistake: with a stroke of a pen, a covert handshake, or by allowing memes to drown out the cries of the afflicted we can lose the Internet we love.</element>
       <element>We come to you from the years of the Web's beginning. We have grown old together on the Internet. Time is short.</element>
       <element>We, the People of the Internet, need to remember the glory of its revelation so that we reclaim it now in the name of what it truly is.</element>
    </preamble>
