@@ -6,7 +6,7 @@ The text of the New Clues page is posted under a Creative Commons 0 license that
 
 The files:
 
-- clues_.html: The 122 clues, in divs with ids indicating their number. This includes the section and subsection headings as well. In the original page, there are three main sections, each with subsections prefaced by letters that start again at "a" for each of the sections. Each sections contains clues that are numbered consecuetively from the beginning of the document, 1-122.
+- clues_.html: The 121 clues, in divs with ids indicating their number. This includes the section and subsection headings as well. In the original page, there are three main sections, each with subsections prefaced by letters that start again at "a" for each of the sections. Each sections contains clues that are numbered consecuetively from the beginning of the document, 1-121.
 
 - preamble_.html: The preamble to the newclues page.
 
