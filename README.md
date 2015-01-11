@@ -1,8 +1,10 @@
 ## New Clues
 
-This is the HTML version of the "New Clues" page  by David Weinberger and Doc Searls to be posted sometime in early January 2015 at http://www.cluetrain.com/newclues/index.html. These documents are currently in stealth mode. We're trusting you with this.
+On Jan. 8, 2015, we (David Weinberger and Doc Searls) posted *New Clues* at http://www.cluetrain.com/newclues/index.html. 
 
-The text of the New Clues page is posted under a Creative Commons 0 license that puts them into the public domain. Use them as you would like. (Obviously, it would be polite to credit the authors and  link back to the original site. )
+We did so as an *open source publishing project*: the text is fully available for re-use by humans and by computer programs. To enable that, we've posted the text here at Github in various formats. We have also put the text into the public domain by using a Creative Commons 0 license. It can be reused in any way without asking permission and without any restrictions. (Obviously, it would be polite to credit the authors and  link back to the original site.)
+
+Please note that we expect not to accept any pull requests because we feel we should maintain the integrity of the New Clues page as initially published. We do encourage branching and forking.
 
 The files:
 
