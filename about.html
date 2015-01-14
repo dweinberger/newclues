@@ -1,46 +1,9 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta content="text/html; charset=utf-8" http-equiv="content-type">
-    <title>New Clues</title>
-    
-    <meta name="robots" content="noindex">
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800"   rel="stylesheet" type="text/css">
-    <link rel="shortcut icon" href="http://localhost/newclues/favicon-dillo2-yellow.ico">
-    <!-- my includes -->
-    <link type="text/css" rel="stylesheet" href="css/style.css">
-    <script type="text/javascript" src="includes/jquery-1.11.0.min.js"></script>
-    	    <script type="text/javascript">
-		  jQuery(document).ready(function($) {
-					// randomize authorship preference
-		var rand = Math.random();
-		if (rand > 0.5){
-			$("#author1").text("Doc Searls");
-			$("#endname1").html('<a href="http://weinberger.org">David Weinberger</a> david@weinberger.org');
-			$("#author2").text("David Weinberger");
-			$("#endname2").html('<a href="http://searls.com">Doc Searls</a> doc@searls.com'); 
-		} 
-		else{
-			$("#author2").text("Doc Searls");
-			$("#endname2").html('<a href="http://weinberger.org">David Weinberger</a> david@weinberger.org');
-			$("#author1").text("David Weinberger");
-			$("#endname1").html('<a href="http://searls.com">Doc Searls</a> doc@searls.com');
-			}
-			});
-	</script>
-  </head>
-  	
-  
-  <body>
-   <img id="mainimg_about" src="./images/armadillo-doc-dw1_about.jpg" alt="armadillo and a bike oddly together" title="CC-BY e. res @ flickr.com. Thanks!">
-    <div id="main">
-    
-    <div class="menu">
-    	<p id="prefs">
-    	<a href="index.html">Back to the New Clues</a>
-    	</p>
-    </div>
-    
+---
+permalink: "/about/"
+redirect_from: "/about.html"
+layout: default
+---
+
     <div id="tablediv">
     <table id="abouttable">
     <tr>
@@ -57,8 +20,8 @@
                     <p class="about"><span id="endname1"></span> <br /> <span id="endname2"></span>
                       <br>
                       January 7, 2015 </p>
-                  
-    
+
+
     </td>
     <td class="aboutcol">
           <div class="aboutH1">Open Source Publishing
@@ -91,9 +54,9 @@ Commons
               JSON version mounted <a href="https://dl.dropboxusercontent.com/u/368662/clues_.json">here</a>.
             </li>
           </ul>
-          
+
           <hr width="20%">
-         
+
           <p class="about">While we've put the text that we wrote into the
             public domain, the photograph at the top of the armadillo and the
               bike was <a href="https://flic.kr/p/N2pBF">posted at Flickr</a>
@@ -102,7 +65,7 @@ Commons
                 Commons BY 2.0 license</a> that lets anyone use it so long as
               they attribute it to him and share it with others. (We edited it
               to make it work better with this page. Nice snap, though, e. res!)</p>
-         
+
         </td>
         </tr>
         </table>

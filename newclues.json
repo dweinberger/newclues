@@ -1,0 +1,9 @@
+---
+---
+
+{
+	"authors": {{ site.authors | jsonify }},
+	"published": {{ site.publication_date | jsonify }},
+	"last_modified": {{ site.time | jsonify }},
+	"chapters": {{ site.data.clues | jsonify }}
+}

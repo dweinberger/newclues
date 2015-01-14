@@ -1,0 +1,14 @@
+# site preferences
+
+authors:
+  - Doc Searls
+  - David Weinberger
+
+publication_date: "January 8, 2015"
+
+# Build configuration
+
+url: "http://localhost:4000" #http://cluetrain.com/newclues/
+markdown: kramdown
+gems:
+  - jekyll-redirect-from
