@@ -45,13 +45,16 @@ body {
 	
 
 }
-#translations{
+#leftprefs{
 	float:left;
 	width: 40%;
+	text-align:left;
+}
+#translations, #translations a{
 	font-size: 1em; 	
 	color: #1F79FF; 
 	font-weight:600;
-	margin-left: -2em; 
+	text-align:left;
 }
 #prefs{
 	font-size: 1em; 
