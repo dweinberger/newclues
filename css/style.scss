@@ -1,3 +1,6 @@
+---
+---
+
 body {
 	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, Verdana, Sans Serif;
 	font-weight: 400;
@@ -359,4 +362,22 @@ h3 {
 
 .subheads {
 	list-style-type: lower-alpha;
+}
+
+.header-link {
+	position: absolute;
+	left: 5em;
+	opacity: 0;
+
+	-webkit-transition: opacity 0.2s ease-in-out 0.1s;
+	-moz-transition: opacity 0.2s ease-in-out 0.1s;
+	-ms-transition: opacity 0.2s ease-in-out 0.1s;
+}
+
+a.header-link {
+	color: blue;
+}
+
+.clue:hover .header-link {
+	opacity: 1;
 }

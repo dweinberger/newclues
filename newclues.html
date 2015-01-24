@@ -10,9 +10,11 @@ layout: default
 {{ line | markdownify }}
 {% endfor %}
 
-<span id="author1"></span>
-
-<span id="author2"></span>
+<div class="authors">
+  {% for author in site.authors %}
+  <div id="author">{{ author.name }}</div>
+  {% endfor %}
+</div>
 
 <span style="font-size: 0.8em">{{ site.publication_date}}</span>
 
@@ -25,10 +27,11 @@ layout: default
 
 <ol class="subheads">
   {% for subhead in chapter.subheads %}
-    <li class="subhead">{{ subhead.title }}
+    <li class="subhead" id="{{ subhead.title | slugify }}">{{ subhead.title }}
       <ol class="clues" start="{{ cluenum }}">
         {% for clue in subhead.clues %}
-          <li class="clue">
+          <li class="clue" id="{{ cluenum }}">
+            <a class="header-link" href="#{{ cluenum }}"><i class="fa fa-link"></i></a>
             {{ clue | markdownify }}
           </li>
           {% assign cluenum = cluenum | plus:1 %}

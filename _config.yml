@@ -1,8 +1,12 @@
 # site preferences
 
 authors:
-  - Doc Searls
-  - David Weinberger
+  - name: Doc Searls
+    email: doc@searls.com
+    url: searls.com
+  - name: David Weinberger
+    email: david@weinberger.org
+    url: weinberger.org
 
 publication_date: "January 8, 2015"
 

@@ -19,14 +19,20 @@ layout: default
 				for free</a>.</p>
 			<p class="about"> Chris writes and cogitates in Boulder. Rick and his brother have Kickstarted a very cool sock company, <a href="http://xoab.us">XOAB</a>. </p>
 			<p class="about">Doc and David have independently written a number of books (<a href="http://en.wikipedia.org/wiki/The_Intention_Economy">Doc</a> | <a href="http://www.johotheblog.com">David</a>) about the Internet. They have also been fellows at the Harvard <a href="http://cyber.law.harvard.edu">Berkman</a> Center for Internet &amp; Society where Doc continues to instigate  <a href="http://cyber.law.harvard.edu/projectvrm/Main_Page">ProjectVRM</a> parade, and David is a senior researcher. Until recently, David co-directed the <a href="http://librarylab.law.harvard.edu">Harvard Library Innovation Lab.</a> In Feb. 2015, he'll be a fellow at Harvard's <a href="http://shorensteincenter.org/about-us/">Shorenstein Center</a> on Media, Politics, and Public Policy, and will be teaching at <a href="http://emerson.edu">Emerson College</a>. Both Doc and David have families, lives, etc., and like long walks on the beach and snuggling under blankets on chilly evenings. We welcome your comments.
-			<p class="about"><span id="endname1"></span> <br /> <span id="endname2"></span>
+			<p class="about">
+
+        <div class="authors">
+          {% for author in site.authors %}
+          <div id="author"><a href="{{ author.url}}">{{ author.name }}</a> {{ author.email }}</div>
+          {% endfor %}
+        </div>
 			  <br>
 			  January 8, 2015 <br /><br />
 			  <span style="font-size:1em">Join us at <a href="http://www.twitter.com/cluetrain">cluetrain@twitter.com</a>. Or <a href="https://www.facebook.com/groups/newclues/">Facebook</a>. </span>
 			  </p>
 
 			  <!-- ========== SHARE ============= -->
-                  
+
     </td>
     <td class="aboutcol">
           <div class="aboutH1">Open Source Publishing
