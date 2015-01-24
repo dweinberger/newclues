@@ -45,12 +45,23 @@ body {
 	color: #B70BB5;
 }
 
-#prefs {
+#leftprefs{
+	float:left;
+	width: 40%;
+	text-align:left;
+}
+#translations, #translations a{
 	font-size: 1em;
-	clear: both;
 	color: #1F79FF;
-	font-weight: 600;
-	text-align: right;
+	font-weight:600;
+	text-align:left;
+}
+#prefs{
+	font-size: 1em;
+	color: #1F79FF;
+	font-weight:600;
+	text-align:right;
+	float:right;
 }
 
 #prefs a {
@@ -67,7 +78,7 @@ h2 {
 	margin-bottom: 0.5em;
 }
 
-#forkmediv {
+#forkmediv, #jesuisdiv{
 	width: 15em;
 	background-color: #B1E0FF;
 	float: right;
@@ -81,7 +92,7 @@ h2 {
 	border-bottom-left-radius: 15px;
 }
 
-.forkme {
+.forkme,.jesuis{
 	color: #0A83EA;
 	font-size: 1em;
 	text-align: right;
@@ -100,7 +111,18 @@ h2 {
 	background-color: #D8EAE9;
 }
 
-#intro a {
+#jesuisdiv{
+	background-color: black;
+	width: 4em;
+	padding: 0.5em;
+}
+.jesuis{
+	color: white;
+	size: 0.6em;
+
+}
+
+#intro a{
 	color: #FF7841;
 	text-decoration: none;
 }
@@ -209,9 +231,9 @@ h2 {
 }
 
 .embeddedtextarea {
-	width: 35em;
+	width:50em;
 	height: 6em;
-	font-size: 0.6em;
+	font-size: 0.8em;
 	background-color: black;
 	color: white;
 }
