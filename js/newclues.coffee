@@ -23,3 +23,12 @@ $ ->
 	divs = authors.children()
 	while divs.length
 		authors.append divs.splice(Math.floor(Math.random() * divs.length), 1)[0]
+
+	# Show embed links
+	$(".clue").click (e) ->
+
+		# Hide all embed links on click so that only one is visible at any time
+		$(".embeddedlink").slideUp()
+
+		# Toggle this particular embed link on click
+		$(e.target).parent().children(".embeddedlink").slideToggle()

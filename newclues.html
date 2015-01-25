@@ -31,8 +31,14 @@ layout: default
       <ol class="clues" start="{{ cluenum }}">
         {% for clue in subhead.clues %}
           <li class="clue" id="{{ cluenum }}">
-            <a class="header-link" href="#{{ cluenum }}"><i class="fa fa-link"></i></a>
             {{ clue | markdownify }}
+            <div class="embeddedlink" id="embed{{ clunum }}">
+              <a href="{{ site.url }}/#{{ cluenum }}">{{ site.url }}/#{{ cluenum }}</a><br />
+              Copy and paste this text to embed the clue:
+              <textarea class="embeddedtextarea">New Clue #{{ cluenum }}: {{ clue | mardownify }}<br />
+                &mdash; <a href="{{ site.url }}/#{{ cluenum }}">New Clues</a>
+              </textarea>
+            </div>
           </li>
           {% assign cluenum = cluenum | plus:1 %}
         {% endfor %}
