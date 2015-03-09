@@ -2,7 +2,6 @@
 ---
 
 [
-<<<<<<< HEAD
 {% for chapter in site.data.clues %}{% for subhead in chapter.subheads %}{% for clue in subhead.clues %}
 {{ clue | jsonify }},{% endfor %}{% endfor %}{% endfor %}
 ""
