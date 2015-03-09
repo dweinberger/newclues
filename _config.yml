@@ -1,0 +1,18 @@
+# site preferences
+
+authors:
+  - name: Doc Searls
+    email: doc@searls.com
+    url: searls.com
+  - name: David Weinberger
+    email: david@weinberger.org
+    url: weinberger.org
+
+publication_date: "January 8, 2015"
+
+# Build configuration
+
+url: "http://cluetrain.com/newclues"
+markdown: kramdown
+gems:
+  - jekyll-redirect-from

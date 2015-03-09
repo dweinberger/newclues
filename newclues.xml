@@ -1,0 +1,41 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{% assign cluenum = 1 %}
+<newclues version="{{ site.github.build_revision }}">
+  <published>{{ site.publication_date }}</published>
+  <modified>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</modified>
+  <authors>
+    {% for author in site.authors %}
+    <author>{{ author }}</author>
+    {% endfor %}
+  </authors>
+  <preamble>
+    {% for line in site.data.preamble %}
+    <line>{{ line | xml_escape }}</line>
+    {% endfor %}
+  </preamble>
+  <chapters>
+    {% for chapter in site.data.clues %}
+      <chapter>
+        <title>{{ chapter.title | xml_escape  }}</title>
+        <subheads>
+          {% for subhead in chapter.subheads %}
+            <subhead>
+              <title>{{ subhead.title | xml_escape }}</title>
+              <clues>
+                {% for clue in subhead.clues %}
+                  <clue>
+                    <number>{{ cluenum }}</number>
+                    <text>{{ clue | xml_escape }}</text>
+                  </clue>
+                  {% assign cluenum = cluenum | plus:1 %}
+                {% endfor %}
+              </clues>
+            </subhead>
+          {% endfor %}
+        </subheads>
+      </chapter>
+    {% endfor %}
+  </chapters>
+</newclues>
