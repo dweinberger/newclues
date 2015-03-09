@@ -12,7 +12,7 @@ publication_date: "January 8, 2015"
 
 # Build configuration
 
-url: "http://dweinberger.github.io/newclues"
+url: "http://newclues.cluetrain.com"
 markdown: kramdown
 gems:
   - jekyll-redirect-from
