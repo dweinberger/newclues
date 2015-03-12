@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type">
+  <title>New Clues</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
+  <link rel="shortcut icon" href="{{ site.url }}/favicon-dillo2-yellow.ico">
+  <link type="text/css" rel="stylesheet" href="{{ site.url }}/css/style.css">
+  <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+  <script src="{{ site.url }}/js/newclues.js"></script>
+</head>
+
+<body>
+  {% if page.url == "/index.html" %}
+  <img id="mainimg" src="{{ site.url }}/images/armadillo-doc-dw1.jpg" alt="armadillo and a bike oddly together" title="CC-BY e. res @ flickr.com. Thanks!">
+  <div class="menu">
+    <p id="prefs"> <a href="about/">About</a>
+      <br />Click on a clue number for a link.
+      <br />Click
+      <input id="fbtn" value="here" title="It removes the single use of 'fucking.' (It's your fault for hovering.)" onclick="$('#fspan').hide();$('#nofspan').show();" type="button">to make this page Safe for <s>Work</s> Children
+      <br/> <span class="translations">Translations: <a href="https://medium.com/bee-free-the-social-bee/cluetrain-15-anni-dopo-9d6b4def4d57">Italian</a> <a href="https://medium.com/@nuovetesi/nuove-tesi-4a1def360351">Italian</a> <a href=-"http://conceptbakery.de/blog/2015/01/11/new-clues-deutsche-uebersetzung-die-neuen-thesen-von-den-verfassern-des-cluetrain-manifest/">German</a> <a href="https://ca.wikisource.org/wiki/New_clues">Catalan</a></span>
+    </p>
+  </div>
+  {% else %}
+
+  <img id="mainimg_about" src="{{ site.url }}/images/armadillo-doc-dw1_about.jpg" alt="armadillo and a bike oddly together" title="CC-BY e. res @ flickr.com. Thanks!">
+
+  <div class="menu">
+    <p id="prefs">
+      <a href="/">Back to the New Clues</a>
+    </p>
+  </div>
+
+  {% endif %}
+  <div id="main">
+
+    {{ content }}
+
+  </div><!-- main -->
+</body>
+
+</html>
