@@ -1,11 +1,29 @@
+- language: Català
+  url: "https://ca.wikisource.org/wiki/New_clues"
 
-Català: "https://ca.wikisource.org/wiki/New_clues"
-Deutsch: "http://conceptbakery.de/blog/2015/01/11/new-clues-deutsche-uebersetzung-die-neuen-thesen-von-den-verfassern-des-cluetrain-manifest/"
-Deutsch: "http://www.gdi.ch/Media/impuls/1.15/weinberger_david_searls_doc_1_15.pdf"
-Español: "http://hangouton.es/nuevo-cluetrain-2015-espanol/"
-Italiano: "https://medium.com/bee-free-the-social-bee/cluetrain-15-anni-dopo-9d6b4def4d57"
-Italiano: "https://medium.com/@nuovetesi/nuove-tesi-4a1def360351"
-Italiano: "http://archiviomarini.sp.unipi.it/604/"
-Nederlands: "https://piratenpartij.nl/nieuwe-set-aanwijzingen-internetgebruik/"
-Português: "http://startup101.com.br/marketing-e-vendas/pistas-manifesto-cluetrain"
-Português: "https://medium.com/@prenass/as-novas-dicas-a2500e868428"
+- language: Deutsch
+  url: "http://conceptbakery.de/blog/2015/01/11/new-clues-deutsche-uebersetzung-die-neuen-thesen-von-den-verfassern-des-cluetrain-manifest/"
+
+- language: Deutsch
+  url: "http://www.gdi.ch/Media/impuls/1.15/weinberger_david_searls_doc_1_15.pdf"
+
+- languge: Español
+  url: "http://hangouton.es/nuevo-cluetrain-2015-espanol/"
+
+- langauge: Italiano
+  url: "https://medium.com/bee-free-the-social-bee/cluetrain-15-anni-dopo-9d6b4def4d57"
+
+- language: Italiano
+  url: "https://medium.com/@nuovetesi/nuove-tesi-4a1def360351"
+
+- language: Italiano
+  url: "http://archiviomarini.sp.unipi.it/604/"
+
+- language: Nederlands
+  url: "https://piratenpartij.nl/nieuwe-set-aanwijzingen-internetgebruik/"
+
+- language: Português
+  url: "http://startup101.com.br/marketing-e-vendas/pistas-manifesto-cluetrain"
+
+- language: Português
+  url: "https://medium.com/@prenass/as-novas-dicas-a2500e868428"

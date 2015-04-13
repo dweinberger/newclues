@@ -21,9 +21,10 @@
       <br />Click
       <input id="fbtn" value="here" title="It removes the single use of 'fucking.' (It's your fault for hovering.)" onclick="$('#fspan').hide();$('#nofspan').show();" type="button">to make this page Safe for <s>Work</s> Children
       <br/>
+
       <span class="translations">Translations:
         {% for translation in site.data.translations %}
-        <a href="{{ translation[1] }}">{{ translation[0] }}</a>
+        <a href="{{ translation.url }}">{{ translation.language }}</a>
         {% endfor %}
       </span>
     </p>
