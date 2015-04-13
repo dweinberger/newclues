@@ -20,7 +20,13 @@
       <br />Click on a clue number for a link.
       <br />Click
       <input id="fbtn" value="here" title="It removes the single use of 'fucking.' (It's your fault for hovering.)" onclick="$('#fspan').hide();$('#nofspan').show();" type="button">to make this page Safe for <s>Work</s> Children
-      <br/> <span class="translations">Translations: <a href="https://medium.com/bee-free-the-social-bee/cluetrain-15-anni-dopo-9d6b4def4d57">Italian</a> <a href="https://medium.com/@nuovetesi/nuove-tesi-4a1def360351">Italian</a> <a href=-"http://conceptbakery.de/blog/2015/01/11/new-clues-deutsche-uebersetzung-die-neuen-thesen-von-den-verfassern-des-cluetrain-manifest/">German</a> <a href="https://ca.wikisource.org/wiki/New_clues">Catalan</a></span>
+      <br/>
+
+      <span class="translations">Translations:
+        {% for translation in site.data.translations %}
+        <a href="{{ translation.url }}">{{ translation.language }}</a>
+        {% endfor %}
+      </span>
     </p>
   </div>
   {% else %}
