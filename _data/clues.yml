@@ -41,7 +41,7 @@
       clues:
         - 'In 1991, <a href="http://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners-Lee</a> used the Net to create a gift he gave freely to us all: the World Wide Web. Thank you.'
         - Tim created the Web by providing protocols (there's that word again!) that say how to write a page that can link to any other page without needing anyone's permission.
-        - Boom. Within ten years we had billions of pages on the Web — a combined effort on the order of a World War, and yet so benign that the biggest complaint was the <blink> tag.
+        - Boom. Within ten years we had billions of pages on the Web — a combined effort on the order of a World War, and yet so benign that the biggest complaint was the &lt;blink&gt; tag.
         - The Web is an impossibly large, semi-persistent realm of items discoverable in their dense inter-connections.
         - That sounds familiar. Oh, yeah, that's what the world is.
         - Unlike the real world, every thing and every connection on the Web was created by some one of us expressing an interest and an assumption about how those small pieces go together.
