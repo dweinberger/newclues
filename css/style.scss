@@ -155,7 +155,7 @@ h2 {
 
 .blinktag {
 	-webkit-animation-name: blinker;
-	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: 5;
 	-webkit-animation-timing-function: cubic-bezier(1.0,0,0,1.0);
 	-webkit-animation-duration: 1s;
 }
@@ -220,7 +220,7 @@ h2 {
 }
 
 .cluetext a:hover {
-	color: #6834C3;
+	color: RED;
 }
 
 .link {
