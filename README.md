@@ -4,7 +4,7 @@ On Jan. 8, 2015, we (David Weinberger and Doc Searls) posted *New Clues* at http
 
 We did so as an *open source publishing project*: the text is fully available for re-use by humans and by computer programs. To enable that, we've posted the text here at Github in various formats. We have also put the text into the public domain by using a Creative Commons 0 license. It can be reused in any way without asking permission and without any restrictions. (Obviously, it would be polite to credit the authors and  link back to the original site.)
 
-Please note that we expect not to accept any pull requests because we feel we should maintain the integrity of the New Clues page as initially published. We do encourage branching and forking.
+Please note that we expect not to accept pull requests except for typos and other unintentionalities, because we feel we should maintain the integrity of the New Clues page as initially published. We do encourage branching and forking.
 
 The files:
 
