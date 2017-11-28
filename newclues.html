@@ -32,7 +32,7 @@ layout: default
         {% for clue in subhead.clues %}
           <li class="clue" id="{{ cluenum }}">
             {{ clue | markdownify }}
-            <div class="embeddedlink" id="embed{{ clunum }}">
+            <div class="embeddedlink" id="embed{{ cluenum }}">
               <a href="{{ site.url }}/#{{ cluenum }}">{{ site.url }}/#{{ cluenum }}</a><br />
               Copy and paste this text to embed the clue:
               <textarea class="embeddedtextarea">New Clue #{{ cluenum }}: {{ clue | mardownify }}<br />
