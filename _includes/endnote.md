@@ -1,6 +1,6 @@
 #### This is an Open Source document.
 
-These New Clues are designed to be shared and re-used without our permission. Use them however you want. Make them your own. We only request that you please point back at this original page ( http://cluetrain.com/newclues/ ) because that's just polite.
+These New Clues are designed to be shared and re-used without our permission. Use them however you want. Make them your own. We only request that you please point back at this original page ( http://newclues.cluetrain.com/ ) because that's just polite.
 
 If you are a developer, the text of this page is openly available at <a href="https://github.com/dweinberger/newclues">GitHub</a> for programmatic re-use. Details <a href="http://cluetrain.com/newclues/about.html#share">here</a>.
 
